@@ -1,0 +1,1387 @@
+INFO - Mo4Jo DB: 192.168.10.62 (SVR_Diversey_CheckIt)
+INFO - SmartView DB: localhost (smartview_flask)
+INFO - Migrating Users from Mo4Jo to SmartView Employee from 2012-01-01 to 2018-09-11
+INFO - Data needs to be ported for 2445 days
+
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2012-01-01 to 2012-01-31 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 47 for pascaloettli@msn.com 
+INFO - Migrated ID 47 for pascaloettli@msn.com 
+INFO - Migrated ID 47 for pascaloettli@msn.com 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2012-02-01 to 2012-03-02 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2012-03-03 to 2012-04-02 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2012-04-03 to 2012-05-03 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 37 for pamela.huegli@gottlieb.ch 
+INFO - Migrated ID 37 for pamela.huegli@gottlieb.ch 
+INFO - Migrated ID 37 for pamela.huegli@gottlieb.ch 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2012-05-04 to 2012-06-03 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 131 for boehrnsen@reiwag.at 
+INFO - Migrated ID 131 for boehrnsen@reiwag.at 
+INFO - Migrated ID 131 for boehrnsen@reiwag.at 
+INFO - Migrated ID 133 for dittrich@reiwag.at 
+INFO - Migrated ID 133 for dittrich@reiwag.at 
+INFO - Migrated ID 133 for dittrich@reiwag.at 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2012-06-04 to 2012-07-04 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2012-07-05 to 2012-08-04 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2012-08-05 to 2012-09-04 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2012-09-05 to 2012-10-05 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 158 for gerda.linder@gottlieb.ch 
+INFO - Migrated ID 158 for gerda.linder@gottlieb.ch 
+INFO - Migrated ID 158 for gerda.linder@gottlieb.ch 
+INFO - Migrated ID 161 for thomas.stephani@bkb.ch 
+INFO - Migrated ID 163 for dominique.thommen@helvetia.ch 
+INFO - Migrated ID 161 for thomas.stephani@bkb.ch 
+INFO - Migrated ID 163 for dominique.thommen@helvetia.ch 
+INFO - Migrated ID 161 for thomas.stephani@bkb.ch 
+INFO - Migrated ID 163 for dominique.thommen@helvetia.ch 
+INFO - Migrated ID 162 for matthias.elsholtz@bankcoop.ch 
+INFO - Migrated ID 162 for matthias.elsholtz@bankcoop.ch 
+INFO - Migrated ID 162 for matthias.elsholtz@bankcoop.ch 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2012-10-06 to 2012-11-05 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2012-11-06 to 2012-12-06 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2012-12-07 to 2013-01-06 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 98 for harald.lier@roche.com 
+INFO - Migrated ID 98 for harald.lier@roche.com 
+INFO - Migrated ID 98 for harald.lier@roche.com 
+INFO - Migrated ID 198 for stadler@idm-stadler.de 
+INFO - Migrated ID 198 for stadler@idm-stadler.de 
+INFO - Migrated ID 198 for stadler@idm-stadler.de 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2013-01-07 to 2013-02-06 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 173 for r.haegni@haegni.ch 
+INFO - Migrated ID 173 for r.haegni@haegni.ch 
+INFO - Migrated ID 173 for r.haegni@haegni.ch 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2013-02-07 to 2013-03-09 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2013-03-10 to 2013-04-09 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 8 for gmachacek@mo4jo.at 
+INFO - Migrated ID 8 for gmachacek@mo4jo.at 
+INFO - Migrated ID 8 for gmachacek@mo4jo.at 
+INFO - Migrated ID 214 for simone@swisslodging.ch 
+INFO - Migrated ID 214 for simone@swisslodging.ch 
+INFO - Migrated ID 214 for simone@swisslodging.ch 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2013-04-10 to 2013-05-10 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 228 for Sara.Nikolic@gottlieb.ch 
+INFO - Migrated ID 228 for Sara.Nikolic@gottlieb.ch 
+INFO - Migrated ID 228 for Sara.Nikolic@gottlieb.ch 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2013-05-11 to 2013-06-10 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2013-06-11 to 2013-07-11 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2013-07-12 to 2013-08-11 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2013-08-12 to 2013-09-11 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2013-09-12 to 2013-10-12 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 245 for kulic@reiwag.at 
+INFO - Migrated ID 260 for kulic@reiwag.at 
+INFO - Migrated ID 245 for kulic@reiwag.at 
+INFO - Migrated ID 260 for kulic@reiwag.at 
+INFO - Migrated ID 245 for kulic@reiwag.at 
+INFO - Migrated ID 260 for kulic@reiwag.at 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2013-10-13 to 2013-11-12 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2013-11-13 to 2013-12-13 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2013-12-14 to 2014-01-13 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2014-01-14 to 2014-02-13 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 78 for mandy.maroske@gottlieb.ch 
+INFO - Migrated ID 78 for mandy.maroske@gottlieb.ch 
+INFO - Migrated ID 78 for mandy.maroske@gottlieb.ch 
+INFO - Migrated ID 156 for p.oettli@gmx.ch 
+INFO - Migrated ID 156 for p.oettli@gmx.ch 
+INFO - Migrated ID 156 for p.oettli@gmx.ch 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2014-02-14 to 2014-03-16 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 233 for sacha.strebel@gottlieb.ch 
+INFO - Migrated ID 233 for sacha.strebel@gottlieb.ch 
+INFO - Migrated ID 233 for sacha.strebel@gottlieb.ch 
+INFO - Migrated ID 234 for antonio.gaudio@gottlieb.ch 
+INFO - Migrated ID 235 for enver.bekiri@gottlieb.ch 
+INFO - Migrated ID 234 for antonio.gaudio@gottlieb.ch 
+INFO - Migrated ID 235 for enver.bekiri@gottlieb.ch 
+INFO - Migrated ID 234 for antonio.gaudio@gottlieb.ch 
+INFO - Migrated ID 235 for enver.bekiri@gottlieb.ch 
+INFO - Migrated ID 318 for gmachacek@machi.at 
+INFO - Migrated ID 318 for gmachacek@machi.at 
+INFO - Migrated ID 318 for gmachacek@machi.at 
+INFO - Migrated ID 323 for karin.voit@de.issworld.com 
+INFO - Migrated ID 323 for karin.voit@de.issworld.com 
+INFO - Migrated ID 323 for karin.voit@de.issworld.com 
+INFO - Migrated ID 327 for brigitte.rossek@de.issworld.com 
+INFO - Migrated ID 327 for brigitte.rossek@de.issworld.com 
+INFO - Migrated ID 327 for brigitte.rossek@de.issworld.com 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2014-03-17 to 2014-04-16 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 359 for extern.stefan.reitze@volkswagen.de 
+INFO - Migrated ID 359 for extern.stefan.reitze@volkswagen.de 
+INFO - Migrated ID 359 for extern.stefan.reitze@volkswagen.de 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2014-04-17 to 2014-05-17 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 361 for vertrieb@ckv-gruppe.at 
+INFO - Migrated ID 361 for vertrieb@ckv-gruppe.at 
+INFO - Migrated ID 361 for vertrieb@ckv-gruppe.at 
+INFO - Migrated ID 363 for jela@ckv-gruppe.at 
+INFO - Migrated ID 363 for jela@ckv-gruppe.at 
+INFO - Migrated ID 363 for jela@ckv-gruppe.at 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2014-05-18 to 2014-06-17 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 383 for bozic@ckv-gruppe.at 
+INFO - Migrated ID 383 for bozic@ckv-gruppe.at 
+INFO - Migrated ID 383 for bozic@ckv-gruppe.at 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2014-06-18 to 2014-07-18 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 391 for michael.schlicker@helios-kliniken.de 
+INFO - Migrated ID 401 for markus.maldener@helios-kliniken.de 
+INFO - Migrated ID 411 for christina.troha@helios-kliniken.de 
+INFO - Migrated ID 391 for michael.schlicker@helios-kliniken.de 
+INFO - Migrated ID 401 for markus.maldener@helios-kliniken.de 
+INFO - Migrated ID 411 for christina.troha@helios-kliniken.de 
+INFO - Migrated ID 391 for michael.schlicker@helios-kliniken.de 
+INFO - Migrated ID 401 for markus.maldener@helios-kliniken.de 
+INFO - Migrated ID 411 for christina.troha@helios-kliniken.de 
+INFO - Migrated ID 398 for trencan@simacek-sk.sk 
+INFO - Migrated ID 403 for dorusincova@simacek-sk.sk 
+INFO - Migrated ID 398 for trencan@simacek-sk.sk 
+INFO - Migrated ID 403 for dorusincova@simacek-sk.sk 
+INFO - Migrated ID 398 for trencan@simacek-sk.sk 
+INFO - Migrated ID 403 for dorusincova@simacek-sk.sk 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2014-07-19 to 2014-08-18 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 418 for muellheim.reinigung@helios-kliniken.de 
+INFO - Migrated ID 418 for muellheim.reinigung@helios-kliniken.de 
+INFO - Migrated ID 418 for muellheim.reinigung@helios-kliniken.de 
+INFO - Migrated ID 426 for Maria-jose.yebenes@sealedair.com 
+INFO - Migrated ID 426 for Maria-jose.yebenes@sealedair.com 
+INFO - Migrated ID 426 for Maria-jose.yebenes@sealedair.com 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2014-08-19 to 2014-09-18 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 442 for muller.ervin@cgpi.hu 
+INFO - Migrated ID 451 for hasenecker@ckv-gruppe.at 
+INFO - Migrated ID 442 for muller.ervin@cgpi.hu 
+INFO - Migrated ID 451 for hasenecker@ckv-gruppe.at 
+INFO - Migrated ID 442 for muller.ervin@cgpi.hu 
+INFO - Migrated ID 451 for hasenecker@ckv-gruppe.at 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2014-09-19 to 2014-10-19 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 360 for guenter.wolf@sealedair.com 
+INFO - Migrated ID 462 for muller.ervin@cgpi.hu 
+INFO - Migrated ID 360 for guenter.wolf@sealedair.com 
+INFO - Migrated ID 462 for muller.ervin@cgpi.hu 
+INFO - Migrated ID 360 for guenter.wolf@sealedair.com 
+INFO - Migrated ID 462 for muller.ervin@cgpi.hu 
+INFO - Migrated ID 464 for hasenecker@ckv-gruppe.at 
+INFO - Migrated ID 464 for hasenecker@ckv-gruppe.at 
+INFO - Migrated ID 464 for hasenecker@ckv-gruppe.at 
+INFO - Migrated ID 468 for hasenecker@ckv-gruppe.at 
+INFO - Migrated ID 468 for hasenecker@ckv-gruppe.at 
+INFO - Migrated ID 468 for hasenecker@ckv-gruppe.at 
+INFO - Migrated ID 469 for Manfred.Wulfekotte@de.issworld.com 
+INFO - Migrated ID 469 for Manfred.Wulfekotte@de.issworld.com 
+INFO - Migrated ID 469 for Manfred.Wulfekotte@de.issworld.com 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2014-10-20 to 2014-11-19 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 458 for maricruz.gutierrez@interserve.com 
+INFO - Migrated ID 458 for maricruz.gutierrez@interserve.com 
+INFO - Migrated ID 458 for maricruz.gutierrez@interserve.com 
+INFO - Migrated ID 508 for jasmin.mueller@helios-kliniken.de 
+INFO - Migrated ID 509 for klara.duerr@helios-kliniken.de 
+INFO - Migrated ID 510 for elke.diebold@helios-kliniken.de 
+INFO - Migrated ID 508 for jasmin.mueller@helios-kliniken.de 
+INFO - Migrated ID 509 for klara.duerr@helios-kliniken.de 
+INFO - Migrated ID 510 for elke.diebold@helios-kliniken.de 
+INFO - Migrated ID 508 for jasmin.mueller@helios-kliniken.de 
+INFO - Migrated ID 509 for klara.duerr@helios-kliniken.de 
+INFO - Migrated ID 510 for elke.diebold@helios-kliniken.de 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2014-11-20 to 2014-12-20 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 522 for jerkovic@lewag.at 
+INFO - Migrated ID 522 for jerkovic@lewag.at 
+INFO - Migrated ID 522 for jerkovic@lewag.at 
+INFO - Migrated ID 531 for sven.fenger@de.issworld.com 
+INFO - Migrated ID 531 for sven.fenger@de.issworld.com 
+INFO - Migrated ID 531 for sven.fenger@de.issworld.com 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2014-12-21 to 2015-01-20 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 358 for gmachacek@machi.at 
+INFO - Migrated ID 358 for gmachacek@machi.at 
+INFO - Migrated ID 358 for gmachacek@machi.at 
+INFO - Migrated ID 542 for anabelen.herranz@sealedair.com 
+INFO - Migrated ID 542 for anabelen.herranz@sealedair.com 
+INFO - Migrated ID 542 for anabelen.herranz@sealedair.com 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2015-01-21 to 2015-02-20 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2015-02-21 to 2015-03-23 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2015-03-24 to 2015-04-23 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 630 for denise.hanson@sealedair.com 
+INFO - Migrated ID 630 for denise.hanson@sealedair.com 
+INFO - Migrated ID 630 for denise.hanson@sealedair.com 
+INFO - Migrated ID 658 for amanda.collins@interservefm.com 
+INFO - Migrated ID 659 for kerry.sloan@interservefm.com 
+INFO - Migrated ID 660 for vikki.alcock@interservefm.com 
+INFO - Migrated ID 658 for amanda.collins@interservefm.com 
+INFO - Migrated ID 659 for kerry.sloan@interservefm.com 
+INFO - Migrated ID 660 for vikki.alcock@interservefm.com 
+INFO - Migrated ID 658 for amanda.collins@interservefm.com 
+INFO - Migrated ID 659 for kerry.sloan@interservefm.com 
+INFO - Migrated ID 660 for vikki.alcock@interservefm.com 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2015-04-24 to 2015-05-24 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 684 for manuel.isaac@sealedair.com 
+INFO - Migrated ID 684 for manuel.isaac@sealedair.com 
+INFO - Migrated ID 684 for manuel.isaac@sealedair.com 
+INFO - Migrated ID 689 for oravecz.tamas@dussmann.hu 
+INFO - Migrated ID 691 for bakos.Lajos@dussmann.hu 
+INFO - Migrated ID 695 for zloch@simacek-sk.sk 
+INFO - Migrated ID 689 for oravecz.tamas@dussmann.hu 
+INFO - Migrated ID 691 for bakos.Lajos@dussmann.hu 
+INFO - Migrated ID 695 for zloch@simacek-sk.sk 
+INFO - Migrated ID 689 for oravecz.tamas@dussmann.hu 
+INFO - Migrated ID 691 for bakos.Lajos@dussmann.hu 
+INFO - Migrated ID 695 for zloch@simacek-sk.sk 
+INFO - Migrated ID 690 for igaz.tibor@dussmann.hu 
+INFO - Migrated ID 690 for igaz.tibor@dussmann.hu 
+INFO - Migrated ID 690 for igaz.tibor@dussmann.hu 
+INFO - Migrated ID 705 for marcel.bras@sealedair.com 
+INFO - Migrated ID 705 for marcel.bras@sealedair.com 
+INFO - Migrated ID 705 for marcel.bras@sealedair.com 
+INFO - Migrated ID 717 for jk@nodecon.com 
+INFO - Migrated ID 717 for jk@nodecon.com 
+INFO - Migrated ID 717 for jk@nodecon.com 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2015-05-25 to 2015-06-24 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 389 for sabine.edling@de.issworld.com 
+INFO - Migrated ID 389 for sabine.edling@de.issworld.com 
+INFO - Migrated ID 389 for sabine.edling@de.issworld.com 
+INFO - Migrated ID 457 for noelia.martin@interserve.com 
+INFO - Migrated ID 494 for josemanuel.martinez@interserve.com 
+INFO - Migrated ID 497 for marival.fernandez@interserve.com 
+INFO - Migrated ID 731 for calos.perez@interserve.com 
+INFO - Migrated ID 457 for noelia.martin@interserve.com 
+INFO - Migrated ID 494 for josemanuel.martinez@interserve.com 
+INFO - Migrated ID 497 for marival.fernandez@interserve.com 
+INFO - Migrated ID 731 for calos.perez@interserve.com 
+INFO - Migrated ID 457 for noelia.martin@interserve.com 
+INFO - Migrated ID 494 for josemanuel.martinez@interserve.com 
+INFO - Migrated ID 497 for marival.fernandez@interserve.com 
+INFO - Migrated ID 731 for calos.perez@interserve.com 
+INFO - Migrated ID 474 for joseluis.alvarez@interserve.com 
+INFO - Migrated ID 575 for ramon.campins@interserve.com 
+INFO - Migrated ID 474 for joseluis.alvarez@interserve.com 
+INFO - Migrated ID 575 for ramon.campins@interserve.com 
+INFO - Migrated ID 474 for joseluis.alvarez@interserve.com 
+INFO - Migrated ID 575 for ramon.campins@interserve.com 
+INFO - Migrated ID 736 for hannes.resch@haubis.at 
+INFO - Migrated ID 736 for hannes.resch@haubis.at 
+INFO - Migrated ID 736 for hannes.resch@haubis.at 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2015-06-25 to 2015-07-25 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 574 for paolo.roccelli@bouygues-es.com 
+INFO - Migrated ID 706 for laura.sabella@bouygues-es.com 
+INFO - Migrated ID 574 for paolo.roccelli@bouygues-es.com 
+INFO - Migrated ID 706 for laura.sabella@bouygues-es.com 
+INFO - Migrated ID 574 for paolo.roccelli@bouygues-es.com 
+INFO - Migrated ID 706 for laura.sabella@bouygues-es.com 
+INFO - Migrated ID 755 for gmachacek@mo4jo.at 
+INFO - Migrated ID 755 for gmachacek@mo4jo.at 
+INFO - Migrated ID 755 for gmachacek@mo4jo.at 
+INFO - Migrated ID 757 for jk@nodecon.com 
+INFO - Migrated ID 757 for jk@nodecon.com 
+INFO - Migrated ID 757 for jk@nodecon.com 
+INFO - Migrated ID 770 for sahra.casanova@bouygues-es.com 
+INFO - Migrated ID 771 for anabela.decastro@bouygues-es.com 
+INFO - Migrated ID 770 for sahra.casanova@bouygues-es.com 
+INFO - Migrated ID 771 for anabela.decastro@bouygues-es.com 
+INFO - Migrated ID 770 for sahra.casanova@bouygues-es.com 
+INFO - Migrated ID 771 for anabela.decastro@bouygues-es.com 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2015-07-26 to 2015-08-25 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2015-08-26 to 2015-09-25 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 724 for lehel.bessenyei@dussmann.hu 
+INFO - Migrated ID 724 for lehel.bessenyei@dussmann.hu 
+INFO - Migrated ID 724 for lehel.bessenyei@dussmann.hu 
+INFO - Migrated ID 834 for javier.losada@sealedair.com 
+INFO - Migrated ID 834 for javier.losada@sealedair.com 
+INFO - Migrated ID 834 for javier.losada@sealedair.com 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2015-09-26 to 2015-10-26 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 867 for Corinne.Schwarzentrub@baerkarrer.ch 
+INFO - Migrated ID 867 for Corinne.Schwarzentrub@baerkarrer.ch 
+INFO - Migrated ID 867 for Corinne.Schwarzentrub@baerkarrer.ch 
+INFO - Migrated ID 879 for ladina.poltera@bymaag.ch 
+INFO - Migrated ID 879 for ladina.poltera@bymaag.ch 
+INFO - Migrated ID 879 for ladina.poltera@bymaag.ch 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2015-10-27 to 2015-11-26 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 272 for info@oettliservice.ch 
+INFO - Migrated ID 461 for silvia.jerez@sealedair.com 
+INFO - Migrated ID 272 for info@oettliservice.ch 
+INFO - Migrated ID 461 for silvia.jerez@sealedair.com 
+INFO - Migrated ID 272 for info@oettliservice.ch 
+INFO - Migrated ID 461 for silvia.jerez@sealedair.com 
+INFO - Migrated ID 321 for robert.kick@de.issworld.com 
+INFO - Migrated ID 470 for Marek.Baranowski@de.issworld.com 
+INFO - Migrated ID 530 for holger.schrotz@de.issworld.com 
+INFO - Migrated ID 699 for carsten.ruse@de.issworld.com 
+INFO - Migrated ID 321 for robert.kick@de.issworld.com 
+INFO - Migrated ID 470 for Marek.Baranowski@de.issworld.com 
+INFO - Migrated ID 530 for holger.schrotz@de.issworld.com 
+INFO - Migrated ID 699 for carsten.ruse@de.issworld.com 
+INFO - Migrated ID 321 for robert.kick@de.issworld.com 
+INFO - Migrated ID 470 for Marek.Baranowski@de.issworld.com 
+INFO - Migrated ID 530 for holger.schrotz@de.issworld.com 
+INFO - Migrated ID 699 for carsten.ruse@de.issworld.com 
+INFO - Migrated ID 552 for david.johnson@sealedair.com 
+INFO - Migrated ID 552 for david.johnson@sealedair.com 
+INFO - Migrated ID 552 for david.johnson@sealedair.com 
+INFO - Migrated ID 686 for marcel.bras@sealedair.com 
+INFO - Migrated ID 756 for stefan.wilms@sealedair.com 
+INFO - Migrated ID 769 for heinz.gatter@sealedair.com 
+INFO - Migrated ID 778 for valentin.sanchez@sealedair.com 
+INFO - Migrated ID 780 for guillermo.liras@sealedair.com 
+INFO - Migrated ID 686 for marcel.bras@sealedair.com 
+INFO - Migrated ID 756 for stefan.wilms@sealedair.com 
+INFO - Migrated ID 769 for heinz.gatter@sealedair.com 
+INFO - Migrated ID 778 for valentin.sanchez@sealedair.com 
+INFO - Migrated ID 780 for guillermo.liras@sealedair.com 
+INFO - Migrated ID 686 for marcel.bras@sealedair.com 
+INFO - Migrated ID 756 for stefan.wilms@sealedair.com 
+INFO - Migrated ID 769 for heinz.gatter@sealedair.com 
+INFO - Migrated ID 778 for valentin.sanchez@sealedair.com 
+INFO - Migrated ID 780 for guillermo.liras@sealedair.com 
+INFO - Migrated ID 911 for andreas.schneider@vebego.ch 
+INFO - Migrated ID 911 for andreas.schneider@vebego.ch 
+INFO - Migrated ID 911 for andreas.schneider@vebego.ch 
+INFO - Migrated ID 923 for madu@skaraborgs.se 
+INFO - Migrated ID 923 for madu@skaraborgs.se 
+INFO - Migrated ID 923 for madu@skaraborgs.se 
+INFO - Migrated ID 940 for stefan.wilms@sealedair.com 
+INFO - Migrated ID 941 for stefan.wilms@sealedair.com 
+INFO - Migrated ID 940 for stefan.wilms@sealedair.com 
+INFO - Migrated ID 941 for stefan.wilms@sealedair.com 
+INFO - Migrated ID 940 for stefan.wilms@sealedair.com 
+INFO - Migrated ID 941 for stefan.wilms@sealedair.com 
+INFO - Migrated ID 956 for stefan.wilms@sealedair.com 
+INFO - Migrated ID 956 for stefan.wilms@sealedair.com 
+INFO - Migrated ID 956 for stefan.wilms@sealedair.com 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2015-11-27 to 2015-12-27 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 970 for gnavarro@santpau.cat 
+INFO - Migrated ID 972 for sonia.widmer@baerkarrer.ch 
+INFO - Migrated ID 970 for gnavarro@santpau.cat 
+INFO - Migrated ID 972 for sonia.widmer@baerkarrer.ch 
+INFO - Migrated ID 970 for gnavarro@santpau.cat 
+INFO - Migrated ID 972 for sonia.widmer@baerkarrer.ch 
+INFO - Migrated ID 1059 for Manuel.voit@bymaag.ch 
+INFO - Migrated ID 1059 for Manuel.voit@bymaag.ch 
+INFO - Migrated ID 1059 for Manuel.voit@bymaag.ch 
+INFO - Migrated ID 1069 for graham.denton@interserve.co.uk 
+INFO - Migrated ID 1069 for graham.denton@interserve.co.uk 
+INFO - Migrated ID 1069 for graham.denton@interserve.co.uk 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2015-12-28 to 2016-01-27 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 362 for feigl@ckv-gruppe.at 
+INFO - Migrated ID 362 for feigl@ckv-gruppe.at 
+INFO - Migrated ID 362 for feigl@ckv-gruppe.at 
+INFO - Migrated ID 453 for cecil.winthrop@interserve.com 
+INFO - Migrated ID 453 for cecil.winthrop@interserve.com 
+INFO - Migrated ID 453 for cecil.winthrop@interserve.com 
+INFO - Migrated ID 460 for margarita.llorente@sealedair.com 
+INFO - Migrated ID 656 for stefan.wilms@sealedair.com 
+INFO - Migrated ID 1175 for gnavarro@santpau.cat 
+INFO - Migrated ID 460 for margarita.llorente@sealedair.com 
+INFO - Migrated ID 656 for stefan.wilms@sealedair.com 
+INFO - Migrated ID 1175 for gnavarro@santpau.cat 
+INFO - Migrated ID 460 for margarita.llorente@sealedair.com 
+INFO - Migrated ID 656 for stefan.wilms@sealedair.com 
+INFO - Migrated ID 1175 for gnavarro@santpau.cat 
+INFO - Migrated ID 493 for paco.laguardia@interserve.com 
+INFO - Migrated ID 576 for ramon.campins@interserve.com 
+INFO - Migrated ID 1137 for smousson@fconnection.com 
+INFO - Migrated ID 1144 for stefan.wilms@sealedair.com 
+INFO - Migrated ID 493 for paco.laguardia@interserve.com 
+INFO - Migrated ID 576 for ramon.campins@interserve.com 
+INFO - Migrated ID 1137 for smousson@fconnection.com 
+INFO - Migrated ID 1144 for stefan.wilms@sealedair.com 
+INFO - Migrated ID 493 for paco.laguardia@interserve.com 
+INFO - Migrated ID 576 for ramon.campins@interserve.com 
+INFO - Migrated ID 1137 for smousson@fconnection.com 
+INFO - Migrated ID 1144 for stefan.wilms@sealedair.com 
+INFO - Migrated ID 1084 for tombart@web.de 
+INFO - Migrated ID 1084 for tombart@web.de 
+INFO - Migrated ID 1084 for tombart@web.de 
+INFO - Migrated ID 1097 for rene.hunziker@abz.ch 
+INFO - Migrated ID 1097 for rene.hunziker@abz.ch 
+INFO - Migrated ID 1097 for rene.hunziker@abz.ch 
+INFO - Migrated ID 1115 for victor.carmona@sealedair.com 
+INFO - Migrated ID 1116 for victor.carmona@sealedair.com 
+INFO - Migrated ID 1120 for franciscojavier.palacin@sealedair.com 
+INFO - Migrated ID 1121 for silvia.jerez@sealedair.com 
+INFO - Migrated ID 1122 for miguel.portellmasague@sealedair.com 
+INFO - Migrated ID 1115 for victor.carmona@sealedair.com 
+INFO - Migrated ID 1116 for victor.carmona@sealedair.com 
+INFO - Migrated ID 1120 for franciscojavier.palacin@sealedair.com 
+INFO - Migrated ID 1121 for silvia.jerez@sealedair.com 
+INFO - Migrated ID 1122 for miguel.portellmasague@sealedair.com 
+INFO - Migrated ID 1115 for victor.carmona@sealedair.com 
+INFO - Migrated ID 1116 for victor.carmona@sealedair.com 
+INFO - Migrated ID 1120 for franciscojavier.palacin@sealedair.com 
+INFO - Migrated ID 1121 for silvia.jerez@sealedair.com 
+INFO - Migrated ID 1122 for miguel.portellmasague@sealedair.com 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2016-01-28 to 2016-02-27 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 912 for asari@gategourmet.com 
+INFO - Migrated ID 912 for asari@gategourmet.com 
+INFO - Migrated ID 912 for asari@gategourmet.com 
+INFO - Migrated ID 1176 for lcerradelo@santpau.cat 
+INFO - Migrated ID 1176 for lcerradelo@santpau.cat 
+INFO - Migrated ID 1176 for lcerradelo@santpau.cat 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2016-02-28 to 2016-03-29 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 175 for jl.gonzalez@haegni.ch 
+INFO - Migrated ID 175 for jl.gonzalez@haegni.ch 
+INFO - Migrated ID 175 for jl.gonzalez@haegni.ch 
+INFO - Migrated ID 452 for lynn.hatchman@interserve.com 
+INFO - Migrated ID 452 for lynn.hatchman@interserve.com 
+INFO - Migrated ID 452 for lynn.hatchman@interserve.com 
+INFO - Migrated ID 1294 for roland.langenegger@sealedair.com 
+INFO - Migrated ID 1296 for albertsmarengo@gmail.com 
+INFO - Migrated ID 1294 for roland.langenegger@sealedair.com 
+INFO - Migrated ID 1296 for albertsmarengo@gmail.com 
+INFO - Migrated ID 1294 for roland.langenegger@sealedair.com 
+INFO - Migrated ID 1296 for albertsmarengo@gmail.com 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2016-03-30 to 2016-04-29 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 27 for markus.buetler@gottlieb.ch 
+INFO - Migrated ID 27 for markus.buetler@gottlieb.ch 
+INFO - Migrated ID 27 for markus.buetler@gottlieb.ch 
+INFO - Migrated ID 36 for michel.meier@gottlieb.ch 
+INFO - Migrated ID 229 for sara.nikolic@gottlieb.ch 
+INFO - Migrated ID 246 for Ingeborg.Gunti@gottlieb.ch 
+INFO - Migrated ID 253 for elif.tas@gottlieb.ch 
+INFO - Migrated ID 340 for jean-marc.wittig@dosim.ch 
+INFO - Migrated ID 1356 for luis.mira@vebego.ch 
+INFO - Migrated ID 36 for michel.meier@gottlieb.ch 
+INFO - Migrated ID 229 for sara.nikolic@gottlieb.ch 
+INFO - Migrated ID 246 for Ingeborg.Gunti@gottlieb.ch 
+INFO - Migrated ID 253 for elif.tas@gottlieb.ch 
+INFO - Migrated ID 340 for jean-marc.wittig@dosim.ch 
+INFO - Migrated ID 1356 for luis.mira@vebego.ch 
+INFO - Migrated ID 36 for michel.meier@gottlieb.ch 
+INFO - Migrated ID 229 for sara.nikolic@gottlieb.ch 
+INFO - Migrated ID 246 for Ingeborg.Gunti@gottlieb.ch 
+INFO - Migrated ID 253 for elif.tas@gottlieb.ch 
+INFO - Migrated ID 340 for jean-marc.wittig@dosim.ch 
+INFO - Migrated ID 1356 for luis.mira@vebego.ch 
+INFO - Migrated ID 763 for sanjeev.badri@sealedair.com 
+INFO - Migrated ID 763 for sanjeev.badri@sealedair.com 
+INFO - Migrated ID 763 for sanjeev.badri@sealedair.com 
+INFO - Migrated ID 1289 for fabian.olivier@sealedair.com 
+INFO - Migrated ID 1289 for fabian.olivier@sealedair.com 
+INFO - Migrated ID 1289 for fabian.olivier@sealedair.com 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2016-04-30 to 2016-05-30 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 28 for georg.rombach@post.ch 
+INFO - Migrated ID 28 for georg.rombach@post.ch 
+INFO - Migrated ID 28 for georg.rombach@post.ch 
+INFO - Migrated ID 1089 for rene.hunziker@abz.ch 
+INFO - Migrated ID 1089 for rene.hunziker@abz.ch 
+INFO - Migrated ID 1089 for rene.hunziker@abz.ch 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2016-05-31 to 2016-06-30 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 714 for michael.simecek@sealedair.com 
+INFO - Migrated ID 714 for michael.simecek@sealedair.com 
+INFO - Migrated ID 714 for michael.simecek@sealedair.com 
+INFO - Migrated ID 1549 for jk@nodecon.com 
+INFO - Migrated ID 1549 for jk@nodecon.com 
+INFO - Migrated ID 1549 for jk@nodecon.com 
+INFO - Migrated ID 1563 for elena.frade@sealedair.com 
+INFO - Migrated ID 1564 for irena.frade@sealedair.com 
+INFO - Migrated ID 1566 for silvia.pallares@sealedair.com 
+INFO - Migrated ID 1563 for elena.frade@sealedair.com 
+INFO - Migrated ID 1564 for irena.frade@sealedair.com 
+INFO - Migrated ID 1566 for silvia.pallares@sealedair.com 
+INFO - Migrated ID 1563 for elena.frade@sealedair.com 
+INFO - Migrated ID 1564 for irena.frade@sealedair.com 
+INFO - Migrated ID 1566 for silvia.pallares@sealedair.com 
+INFO - Migrated ID 1598 for Angel.andoni9@gmail.com 
+INFO - Migrated ID 1598 for Angel.andoni9@gmail.com 
+INFO - Migrated ID 1598 for Angel.andoni9@gmail.com 
+INFO - Migrated ID 1601 for jim.butt@sealedair.com 
+INFO - Migrated ID 1601 for jim.butt@sealedair.com 
+INFO - Migrated ID 1601 for jim.butt@sealedair.com 
+INFO - Migrated ID 1631 for cathy.oneill@interserve.com 
+INFO - Migrated ID 1632 for james.hearn@interserve.com 
+INFO - Migrated ID 1633 for chansa.makungu@interserve.com 
+INFO - Migrated ID 1631 for cathy.oneill@interserve.com 
+INFO - Migrated ID 1632 for james.hearn@interserve.com 
+INFO - Migrated ID 1633 for chansa.makungu@interserve.com 
+INFO - Migrated ID 1631 for cathy.oneill@interserve.com 
+INFO - Migrated ID 1632 for james.hearn@interserve.com 
+INFO - Migrated ID 1633 for chansa.makungu@interserve.com 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2016-07-01 to 2016-07-31 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 1718 for laura.sabella@bouygues-es.com 
+INFO - Migrated ID 1718 for laura.sabella@bouygues-es.com 
+INFO - Migrated ID 1718 for laura.sabella@bouygues-es.com 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2016-08-01 to 2016-08-31 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 529 for kalivoda@ckv-gruppe.at 
+INFO - Migrated ID 1440 for domingos.pires@dosim.ch 
+INFO - Migrated ID 529 for kalivoda@ckv-gruppe.at 
+INFO - Migrated ID 1440 for domingos.pires@dosim.ch 
+INFO - Migrated ID 529 for kalivoda@ckv-gruppe.at 
+INFO - Migrated ID 1440 for domingos.pires@dosim.ch 
+INFO - Migrated ID 1745 for kalivoda@ckv-gruppe.at 
+INFO - Migrated ID 1745 for kalivoda@ckv-gruppe.at 
+INFO - Migrated ID 1745 for kalivoda@ckv-gruppe.at 
+INFO - Migrated ID 1758 for brigitte.ondrusek@haubis.at 
+INFO - Migrated ID 1758 for brigitte.ondrusek@haubis.at 
+INFO - Migrated ID 1758 for brigitte.ondrusek@haubis.at 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2016-09-01 to 2016-10-01 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 305 for juerg.unternaehrer@nordend.ch 
+INFO - Migrated ID 305 for juerg.unternaehrer@nordend.ch 
+INFO - Migrated ID 305 for juerg.unternaehrer@nordend.ch 
+INFO - Migrated ID 1851 for matthias.broger@sealedair.com 
+INFO - Migrated ID 1852 for vesna.lajic@bouygues-es.com 
+INFO - Migrated ID 1853 for nelson.fernandes@bouygues-es.com 
+INFO - Migrated ID 1851 for matthias.broger@sealedair.com 
+INFO - Migrated ID 1852 for vesna.lajic@bouygues-es.com 
+INFO - Migrated ID 1853 for nelson.fernandes@bouygues-es.com 
+INFO - Migrated ID 1851 for matthias.broger@sealedair.com 
+INFO - Migrated ID 1852 for vesna.lajic@bouygues-es.com 
+INFO - Migrated ID 1853 for nelson.fernandes@bouygues-es.com 
+INFO - Migrated ID 1872 for dc@ckgroupservices.com 
+INFO - Migrated ID 1873 for sr@ckconsumables.com 
+INFO - Migrated ID 1872 for dc@ckgroupservices.com 
+INFO - Migrated ID 1873 for sr@ckconsumables.com 
+INFO - Migrated ID 1872 for dc@ckgroupservices.com 
+INFO - Migrated ID 1873 for sr@ckconsumables.com 
+INFO - Migrated ID 1876 for jk@nodecon.com 
+INFO - Migrated ID 1876 for jk@nodecon.com 
+INFO - Migrated ID 1876 for jk@nodecon.com 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2016-10-02 to 2016-11-01 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 1567 for aleyda.romero@sealedair.com 
+INFO - Migrated ID 1567 for aleyda.romero@sealedair.com 
+INFO - Migrated ID 1567 for aleyda.romero@sealedair.com 
+INFO - Migrated ID 1597 for J.ricardocondor@gmail.com 
+INFO - Migrated ID 1597 for J.ricardocondor@gmail.com 
+INFO - Migrated ID 1597 for J.ricardocondor@gmail.com 
+INFO - Migrated ID 1599 for Mariarendonmoreno8@gmail.com 
+INFO - Migrated ID 1850 for david.j.west@sealedair.com 
+INFO - Migrated ID 1861 for zara.stevens@bouygues-es.co.uk 
+INFO - Migrated ID 1870 for mg73@soas.ac.uk 
+INFO - Migrated ID 1925 for darwin.cevalos@bouygues-es.co.uk 
+INFO - Migrated ID 1926 for carlos.vasquez@bouygues-es.co.uk 
+INFO - Migrated ID 1599 for Mariarendonmoreno8@gmail.com 
+INFO - Migrated ID 1850 for david.j.west@sealedair.com 
+INFO - Migrated ID 1861 for zara.stevens@bouygues-es.co.uk 
+INFO - Migrated ID 1870 for mg73@soas.ac.uk 
+INFO - Migrated ID 1925 for darwin.cevalos@bouygues-es.co.uk 
+INFO - Migrated ID 1926 for carlos.vasquez@bouygues-es.co.uk 
+INFO - Migrated ID 1599 for Mariarendonmoreno8@gmail.com 
+INFO - Migrated ID 1850 for david.j.west@sealedair.com 
+INFO - Migrated ID 1861 for zara.stevens@bouygues-es.co.uk 
+INFO - Migrated ID 1870 for mg73@soas.ac.uk 
+INFO - Migrated ID 1925 for darwin.cevalos@bouygues-es.co.uk 
+INFO - Migrated ID 1926 for carlos.vasquez@bouygues-es.co.uk 
+INFO - Migrated ID 1904 for mmatos@clece.es 
+INFO - Migrated ID 1906 for anicolich@clece.es 
+INFO - Migrated ID 1907 for ccasanovas@clece.es 
+INFO - Migrated ID 1904 for mmatos@clece.es 
+INFO - Migrated ID 1906 for anicolich@clece.es 
+INFO - Migrated ID 1907 for ccasanovas@clece.es 
+INFO - Migrated ID 1904 for mmatos@clece.es 
+INFO - Migrated ID 1906 for anicolich@clece.es 
+INFO - Migrated ID 1907 for ccasanovas@clece.es 
+INFO - Migrated ID 1905 for cmartinezc@clece.es 
+INFO - Migrated ID 1905 for cmartinezc@clece.es 
+INFO - Migrated ID 1905 for cmartinezc@clece.es 
+INFO - Migrated ID 1908 for mlperez@clece.es 
+INFO - Migrated ID 1908 for mlperez@clece.es 
+INFO - Migrated ID 1908 for mlperez@clece.es 
+INFO - Migrated ID 1922 for reinigung.scs@ckv-gruppe.at 
+INFO - Migrated ID 1922 for reinigung.scs@ckv-gruppe.at 
+INFO - Migrated ID 1922 for reinigung.scs@ckv-gruppe.at 
+INFO - Migrated ID 1979 for stefan.ryffel@mcchicken.biz 
+INFO - Migrated ID 1979 for stefan.ryffel@mcchicken.biz 
+INFO - Migrated ID 1979 for stefan.ryffel@mcchicken.biz 
+INFO - Migrated ID 1982 for martin.koller@mcchicken.biz 
+INFO - Migrated ID 1982 for martin.koller@mcchicken.biz 
+INFO - Migrated ID 1982 for martin.koller@mcchicken.biz 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2016-11-02 to 2016-12-02 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 479 for n.haegni@haegni.ch 
+INFO - Migrated ID 1975 for info@haegni.ch 
+INFO - Migrated ID 479 for n.haegni@haegni.ch 
+INFO - Migrated ID 1975 for info@haegni.ch 
+INFO - Migrated ID 479 for n.haegni@haegni.ch 
+INFO - Migrated ID 1975 for info@haegni.ch 
+INFO - Migrated ID 1232 for l.machado@haegni.ch 
+INFO - Migrated ID 1232 for l.machado@haegni.ch 
+INFO - Migrated ID 1232 for l.machado@haegni.ch 
+INFO - Migrated ID 1550 for jk@nodecon.com 
+INFO - Migrated ID 1550 for jk@nodecon.com 
+INFO - Migrated ID 1550 for jk@nodecon.com 
+INFO - Migrated ID 2002 for hasenecker@ckv-gruppe.at 
+INFO - Migrated ID 2002 for hasenecker@ckv-gruppe.at 
+INFO - Migrated ID 2002 for hasenecker@ckv-gruppe.at 
+INFO - Migrated ID 2013 for dieter.kirchheim@de.issworld.com 
+INFO - Migrated ID 2013 for dieter.kirchheim@de.issworld.com 
+INFO - Migrated ID 2013 for dieter.kirchheim@de.issworld.com 
+INFO - Migrated ID 2029 for boehrnsen@reiwag.at 
+INFO - Migrated ID 2029 for boehrnsen@reiwag.at 
+INFO - Migrated ID 2029 for boehrnsen@reiwag.at 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2016-12-03 to 2017-01-02 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 176 for r.karrer@haegni.ch 
+INFO - Migrated ID 2036 for Jan-Christopher.Mohs@wisag.de 
+INFO - Migrated ID 176 for r.karrer@haegni.ch 
+INFO - Migrated ID 2036 for Jan-Christopher.Mohs@wisag.de 
+INFO - Migrated ID 176 for r.karrer@haegni.ch 
+INFO - Migrated ID 2036 for Jan-Christopher.Mohs@wisag.de 
+INFO - Migrated ID 271 for andrea.rugel@messe.ch 
+INFO - Migrated ID 279 for carole.calmels@dosim.ch 
+INFO - Migrated ID 313 for liridona.tafilaj@gottlieb.ch 
+INFO - Migrated ID 271 for andrea.rugel@messe.ch 
+INFO - Migrated ID 279 for carole.calmels@dosim.ch 
+INFO - Migrated ID 313 for liridona.tafilaj@gottlieb.ch 
+INFO - Migrated ID 271 for andrea.rugel@messe.ch 
+INFO - Migrated ID 279 for carole.calmels@dosim.ch 
+INFO - Migrated ID 313 for liridona.tafilaj@gottlieb.ch 
+INFO - Migrated ID 811 for tcsplanning@sealedair.com 
+INFO - Migrated ID 811 for tcsplanning@sealedair.com 
+INFO - Migrated ID 811 for tcsplanning@sealedair.com 
+INFO - Migrated ID 971 for carteagag@santpau.cat 
+INFO - Migrated ID 2063 for mhurtadoc@santpau.cat 
+INFO - Migrated ID 971 for carteagag@santpau.cat 
+INFO - Migrated ID 2063 for mhurtadoc@santpau.cat 
+INFO - Migrated ID 971 for carteagag@santpau.cat 
+INFO - Migrated ID 2063 for mhurtadoc@santpau.cat 
+INFO - Migrated ID 1719 for sinan.aydin@bouygues-es.com 
+INFO - Migrated ID 1720 for duran.korkmaz@bouygues-es.com 
+INFO - Migrated ID 1721 for sarah.casanova@bouygues-es.com 
+INFO - Migrated ID 2094 for luis-goncalo.falcato-godinho@bouygues-es.com 
+INFO - Migrated ID 2097 for emanuel.krug@bouygues-es.com 
+INFO - Migrated ID 1719 for sinan.aydin@bouygues-es.com 
+INFO - Migrated ID 1720 for duran.korkmaz@bouygues-es.com 
+INFO - Migrated ID 1721 for sarah.casanova@bouygues-es.com 
+INFO - Migrated ID 2094 for luis-goncalo.falcato-godinho@bouygues-es.com 
+INFO - Migrated ID 2097 for emanuel.krug@bouygues-es.com 
+INFO - Migrated ID 1719 for sinan.aydin@bouygues-es.com 
+INFO - Migrated ID 1720 for duran.korkmaz@bouygues-es.com 
+INFO - Migrated ID 1721 for sarah.casanova@bouygues-es.com 
+INFO - Migrated ID 2094 for luis-goncalo.falcato-godinho@bouygues-es.com 
+INFO - Migrated ID 2097 for emanuel.krug@bouygues-es.com 
+INFO - Migrated ID 2027 for george.jenkin@bouygues-es.co.uk 
+INFO - Migrated ID 2083 for mark.farrington@bouygues-es.co.uk 
+INFO - Migrated ID 2027 for george.jenkin@bouygues-es.co.uk 
+INFO - Migrated ID 2083 for mark.farrington@bouygues-es.co.uk 
+INFO - Migrated ID 2027 for george.jenkin@bouygues-es.co.uk 
+INFO - Migrated ID 2083 for mark.farrington@bouygues-es.co.uk 
+INFO - Migrated ID 2033 for sami.yildiz@sealedeair.com 
+INFO - Migrated ID 2033 for sami.yildiz@sealedeair.com 
+INFO - Migrated ID 2033 for sami.yildiz@sealedeair.com 
+INFO - Migrated ID 2035 for Stefan.Conrads@wisag.de 
+INFO - Migrated ID 2056 for sabine.kurz@wisag.de 
+INFO - Migrated ID 2035 for Stefan.Conrads@wisag.de 
+INFO - Migrated ID 2056 for sabine.kurz@wisag.de 
+INFO - Migrated ID 2035 for Stefan.Conrads@wisag.de 
+INFO - Migrated ID 2056 for sabine.kurz@wisag.de 
+INFO - Migrated ID 2053 for rainer.stoeber@bruker.com 
+INFO - Migrated ID 2054 for klaus.bender@bruker.com 
+INFO - Migrated ID 2055 for fabian.franke@wisag.de 
+INFO - Migrated ID 2057 for richard.rayher@wisag.de 
+INFO - Migrated ID 2058 for s.disch@disch.de 
+INFO - Migrated ID 2053 for rainer.stoeber@bruker.com 
+INFO - Migrated ID 2054 for klaus.bender@bruker.com 
+INFO - Migrated ID 2055 for fabian.franke@wisag.de 
+INFO - Migrated ID 2057 for richard.rayher@wisag.de 
+INFO - Migrated ID 2058 for s.disch@disch.de 
+INFO - Migrated ID 2053 for rainer.stoeber@bruker.com 
+INFO - Migrated ID 2054 for klaus.bender@bruker.com 
+INFO - Migrated ID 2055 for fabian.franke@wisag.de 
+INFO - Migrated ID 2057 for richard.rayher@wisag.de 
+INFO - Migrated ID 2058 for s.disch@disch.de 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2017-01-03 to 2017-02-02 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 199 for d.iellamo@haegni.ch 
+INFO - Migrated ID 199 for d.iellamo@haegni.ch 
+INFO - Migrated ID 199 for d.iellamo@haegni.ch 
+INFO - Migrated ID 728 for diego.sarda@interserve.com 
+INFO - Migrated ID 728 for diego.sarda@interserve.com 
+INFO - Migrated ID 728 for diego.sarda@interserve.com 
+INFO - Migrated ID 2114 for sekretariat@ckv-gruppe.at 
+INFO - Migrated ID 2114 for sekretariat@ckv-gruppe.at 
+INFO - Migrated ID 2114 for sekretariat@ckv-gruppe.at 
+INFO - Migrated ID 2142 for boehrnsen@reiwag.at 
+INFO - Migrated ID 2142 for boehrnsen@reiwag.at 
+INFO - Migrated ID 2142 for boehrnsen@reiwag.at 
+INFO - Migrated ID 2174 for jens.suehnhold@de.issworld.com 
+INFO - Migrated ID 2186 for Vanessa.weber@de.issworld.com 
+INFO - Migrated ID 2191 for cornelia.prellberg@de.issworld.com 
+INFO - Migrated ID 2192 for sarah.bartl@de.issworld.com 
+INFO - Migrated ID 2193 for Joerg.Brennfleck@de.issworld.com 
+INFO - Migrated ID 2194 for valentina.ugur@de.issworld.com 
+INFO - Migrated ID 2195 for stephan.weis@de.issworld.com 
+INFO - Migrated ID 2196 for patrick.ziegler@de.issworld.com 
+INFO - Migrated ID 2197 for mike.delius@de.issworld.com 
+INFO - Migrated ID 2198 for patrick.buerkel@de.issworld.com 
+INFO - Migrated ID 2199 for ursula.weber@de.issworld.com 
+INFO - Migrated ID 2174 for jens.suehnhold@de.issworld.com 
+INFO - Migrated ID 2186 for Vanessa.weber@de.issworld.com 
+INFO - Migrated ID 2191 for cornelia.prellberg@de.issworld.com 
+INFO - Migrated ID 2192 for sarah.bartl@de.issworld.com 
+INFO - Migrated ID 2193 for Joerg.Brennfleck@de.issworld.com 
+INFO - Migrated ID 2194 for valentina.ugur@de.issworld.com 
+INFO - Migrated ID 2195 for stephan.weis@de.issworld.com 
+INFO - Migrated ID 2196 for patrick.ziegler@de.issworld.com 
+INFO - Migrated ID 2197 for mike.delius@de.issworld.com 
+INFO - Migrated ID 2198 for patrick.buerkel@de.issworld.com 
+INFO - Migrated ID 2199 for ursula.weber@de.issworld.com 
+INFO - Migrated ID 2174 for jens.suehnhold@de.issworld.com 
+INFO - Migrated ID 2186 for Vanessa.weber@de.issworld.com 
+INFO - Migrated ID 2191 for cornelia.prellberg@de.issworld.com 
+INFO - Migrated ID 2192 for sarah.bartl@de.issworld.com 
+INFO - Migrated ID 2193 for Joerg.Brennfleck@de.issworld.com 
+INFO - Migrated ID 2194 for valentina.ugur@de.issworld.com 
+INFO - Migrated ID 2195 for stephan.weis@de.issworld.com 
+INFO - Migrated ID 2196 for patrick.ziegler@de.issworld.com 
+INFO - Migrated ID 2197 for mike.delius@de.issworld.com 
+INFO - Migrated ID 2198 for patrick.buerkel@de.issworld.com 
+INFO - Migrated ID 2199 for ursula.weber@de.issworld.com 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2017-02-03 to 2017-03-05 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 396 for kristjana.perdema@gottlieb.ch 
+INFO - Migrated ID 396 for kristjana.perdema@gottlieb.ch 
+INFO - Migrated ID 396 for kristjana.perdema@gottlieb.ch 
+INFO - Migrated ID 528 for pedrodavid.martin@interserve.com 
+INFO - Migrated ID 1822 for pedrodavid.martin@interserve.com 
+INFO - Migrated ID 2234 for juliane.beck@dreso.com 
+INFO - Migrated ID 528 for pedrodavid.martin@interserve.com 
+INFO - Migrated ID 1822 for pedrodavid.martin@interserve.com 
+INFO - Migrated ID 2234 for juliane.beck@dreso.com 
+INFO - Migrated ID 528 for pedrodavid.martin@interserve.com 
+INFO - Migrated ID 1822 for pedrodavid.martin@interserve.com 
+INFO - Migrated ID 2234 for juliane.beck@dreso.com 
+INFO - Migrated ID 722 for laszlo.fekete@dussmann.hu 
+INFO - Migrated ID 722 for laszlo.fekete@dussmann.hu 
+INFO - Migrated ID 722 for laszlo.fekete@dussmann.hu 
+INFO - Migrated ID 1074 for ifs.areases@interserve.com 
+INFO - Migrated ID 1074 for ifs.areases@interserve.com 
+INFO - Migrated ID 1074 for ifs.areases@interserve.com 
+INFO - Migrated ID 2052 for stefanie.meinzer@bruker.com 
+INFO - Migrated ID 2052 for stefanie.meinzer@bruker.com 
+INFO - Migrated ID 2052 for stefanie.meinzer@bruker.com 
+INFO - Migrated ID 2059 for deniz@disch.de 
+INFO - Migrated ID 2235 for susanne.manz@bouygues-es.com 
+INFO - Migrated ID 2059 for deniz@disch.de 
+INFO - Migrated ID 2235 for susanne.manz@bouygues-es.com 
+INFO - Migrated ID 2059 for deniz@disch.de 
+INFO - Migrated ID 2235 for susanne.manz@bouygues-es.com 
+INFO - Migrated ID 2183 for elke.bauschke@de.issworld.com 
+INFO - Migrated ID 2183 for elke.bauschke@de.issworld.com 
+INFO - Migrated ID 2183 for elke.bauschke@de.issworld.com 
+INFO - Migrated ID 2190 for jens.baier@de.issworld.com 
+INFO - Migrated ID 2190 for jens.baier@de.issworld.com 
+INFO - Migrated ID 2190 for jens.baier@de.issworld.com 
+INFO - Migrated ID 2225 for info@haegni.ch 
+INFO - Migrated ID 2225 for info@haegni.ch 
+INFO - Migrated ID 2225 for info@haegni.ch 
+INFO - Migrated ID 2266 for aurelie.guerin@ehnv.ch 
+INFO - Migrated ID 2266 for aurelie.guerin@ehnv.ch 
+INFO - Migrated ID 2266 for aurelie.guerin@ehnv.ch 
+INFO - Migrated ID 2307 for heidi.amsler@bruker.com 
+INFO - Migrated ID 2307 for heidi.amsler@bruker.com 
+INFO - Migrated ID 2307 for heidi.amsler@bruker.com 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2017-03-06 to 2017-04-05 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 81 for farida.cheribet@gottlieb.ch 
+INFO - Migrated ID 2236 for tolga.taspinar@bouygues-es.com 
+INFO - Migrated ID 2352 for andre.adam@fr.issworld.com 
+INFO - Migrated ID 2353 for r.morian@bouygues-es.com 
+INFO - Migrated ID 2354 for gilbert.ruebenthaler@bruker.com 
+INFO - Migrated ID 2374 for andre.adam@fr.issworld.com 
+INFO - Migrated ID 81 for farida.cheribet@gottlieb.ch 
+INFO - Migrated ID 2236 for tolga.taspinar@bouygues-es.com 
+INFO - Migrated ID 2352 for andre.adam@fr.issworld.com 
+INFO - Migrated ID 2353 for r.morian@bouygues-es.com 
+INFO - Migrated ID 2354 for gilbert.ruebenthaler@bruker.com 
+INFO - Migrated ID 2374 for andre.adam@fr.issworld.com 
+INFO - Migrated ID 81 for farida.cheribet@gottlieb.ch 
+INFO - Migrated ID 2236 for tolga.taspinar@bouygues-es.com 
+INFO - Migrated ID 2352 for andre.adam@fr.issworld.com 
+INFO - Migrated ID 2353 for r.morian@bouygues-es.com 
+INFO - Migrated ID 2354 for gilbert.ruebenthaler@bruker.com 
+INFO - Migrated ID 2374 for andre.adam@fr.issworld.com 
+INFO - Migrated ID 2390 for sedy.pavel@rpmservice.eu 
+INFO - Migrated ID 2390 for sedy.pavel@rpmservice.eu 
+INFO - Migrated ID 2390 for sedy.pavel@rpmservice.eu 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2017-04-06 to 2017-05-06 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 79 for peter.gerpacher@gottlieb.ch 
+INFO - Migrated ID 2037 for Jan-Christopher.Mohs@wisag.de 
+INFO - Migrated ID 79 for peter.gerpacher@gottlieb.ch 
+INFO - Migrated ID 2037 for Jan-Christopher.Mohs@wisag.de 
+INFO - Migrated ID 79 for peter.gerpacher@gottlieb.ch 
+INFO - Migrated ID 2037 for Jan-Christopher.Mohs@wisag.de 
+INFO - Migrated ID 1293 for Derek.Neeve@bouygues.es.co.uk 
+INFO - Migrated ID 1293 for Derek.Neeve@bouygues.es.co.uk 
+INFO - Migrated ID 1293 for Derek.Neeve@bouygues.es.co.uk 
+INFO - Migrated ID 1548 for sdf@sdf.at 
+INFO - Migrated ID 1548 for sdf@sdf.at 
+INFO - Migrated ID 1548 for sdf@sdf.at 
+INFO - Migrated ID 2028 for john.osagie@bouygues-es.co.uk 
+INFO - Migrated ID 2371 for hector.camelomunoz@bouygues-es.co.uk 
+INFO - Migrated ID 2372 for lenin.escudero-zarsosa@bouygues-es.co.uk 
+INFO - Migrated ID 2028 for john.osagie@bouygues-es.co.uk 
+INFO - Migrated ID 2371 for hector.camelomunoz@bouygues-es.co.uk 
+INFO - Migrated ID 2372 for lenin.escudero-zarsosa@bouygues-es.co.uk 
+INFO - Migrated ID 2028 for john.osagie@bouygues-es.co.uk 
+INFO - Migrated ID 2371 for hector.camelomunoz@bouygues-es.co.uk 
+INFO - Migrated ID 2372 for lenin.escudero-zarsosa@bouygues-es.co.uk 
+INFO - Migrated ID 2441 for shqipe.rexhepi@gottlieb.ch 
+INFO - Migrated ID 2441 for shqipe.rexhepi@gottlieb.ch 
+INFO - Migrated ID 2441 for shqipe.rexhepi@gottlieb.ch 
+INFO - Migrated ID 2466 for norbert.rittler@4-b.ch 
+INFO - Migrated ID 2466 for norbert.rittler@4-b.ch 
+INFO - Migrated ID 2466 for norbert.rittler@4-b.ch 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2017-05-07 to 2017-06-06 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 456 for Martin.Wrede@de.issworld.com 
+INFO - Migrated ID 456 for Martin.Wrede@de.issworld.com 
+INFO - Migrated ID 456 for Martin.Wrede@de.issworld.com 
+INFO - Migrated ID 737 for marion.winkler@haubis.at 
+INFO - Migrated ID 1759 for thomas.brandl@haubis.at 
+INFO - Migrated ID 737 for marion.winkler@haubis.at 
+INFO - Migrated ID 1759 for thomas.brandl@haubis.at 
+INFO - Migrated ID 737 for marion.winkler@haubis.at 
+INFO - Migrated ID 1759 for thomas.brandl@haubis.at 
+INFO - Migrated ID 2202 for diego.sarda@interserve.com 
+INFO - Migrated ID 2202 for diego.sarda@interserve.com 
+INFO - Migrated ID 2202 for diego.sarda@interserve.com 
+INFO - Migrated ID 2507 for isis.navarro@interserve.com 
+INFO - Migrated ID 2507 for isis.navarro@interserve.com 
+INFO - Migrated ID 2507 for isis.navarro@interserve.com 
+INFO - Migrated ID 2516 for isis.navarro@intersereve.com 
+INFO - Migrated ID 2516 for isis.navarro@intersereve.com 
+INFO - Migrated ID 2516 for isis.navarro@intersereve.com 
+INFO - Migrated ID 2546 for dieter.erne@sealedair.com 
+INFO - Migrated ID 2546 for dieter.erne@sealedair.com 
+INFO - Migrated ID 2546 for dieter.erne@sealedair.com 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2017-06-07 to 2017-07-07 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 916 for hygiene@haubis.at 
+INFO - Migrated ID 2551 for vera.ramos@bouygues-es.com 
+INFO - Migrated ID 916 for hygiene@haubis.at 
+INFO - Migrated ID 2551 for vera.ramos@bouygues-es.com 
+INFO - Migrated ID 916 for hygiene@haubis.at 
+INFO - Migrated ID 2551 for vera.ramos@bouygues-es.com 
+INFO - Migrated ID 1722 for paolo.roccelli@bouygues-es.com 
+INFO - Migrated ID 1722 for paolo.roccelli@bouygues-es.com 
+INFO - Migrated ID 1722 for paolo.roccelli@bouygues-es.com 
+INFO - Migrated ID 2499 for johannes.pal@haubis.at 
+INFO - Migrated ID 2500 for werk.wieselburg@haubis.at 
+INFO - Migrated ID 2499 for johannes.pal@haubis.at 
+INFO - Migrated ID 2500 for werk.wieselburg@haubis.at 
+INFO - Migrated ID 2499 for johannes.pal@haubis.at 
+INFO - Migrated ID 2500 for werk.wieselburg@haubis.at 
+INFO - Migrated ID 2532 for judith.scheiblauer@haubis.at 
+INFO - Migrated ID 2553 for jk@nodecon.com 
+INFO - Migrated ID 2555 for James.Ansell@interservefm.com 
+INFO - Migrated ID 2532 for judith.scheiblauer@haubis.at 
+INFO - Migrated ID 2553 for jk@nodecon.com 
+INFO - Migrated ID 2555 for James.Ansell@interservefm.com 
+INFO - Migrated ID 2532 for judith.scheiblauer@haubis.at 
+INFO - Migrated ID 2553 for jk@nodecon.com 
+INFO - Migrated ID 2555 for James.Ansell@interservefm.com 
+INFO - Migrated ID 2554 for mark.carey@interserve.com 
+INFO - Migrated ID 2583 for adrian.southall@interservefm.com 
+INFO - Migrated ID 2554 for mark.carey@interserve.com 
+INFO - Migrated ID 2583 for adrian.southall@interservefm.com 
+INFO - Migrated ID 2554 for mark.carey@interserve.com 
+INFO - Migrated ID 2583 for adrian.southall@interservefm.com 
+INFO - Migrated ID 2589 for jessica.pereira@bouygues-es.com 
+INFO - Migrated ID 2589 for jessica.pereira@bouygues-es.com 
+INFO - Migrated ID 2589 for jessica.pereira@bouygues-es.com 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2017-07-08 to 2017-08-07 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 2625 for ortam.guelen@gottlieb.ch 
+INFO - Migrated ID 2625 for ortam.guelen@gottlieb.ch 
+INFO - Migrated ID 2625 for ortam.guelen@gottlieb.ch 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2017-08-08 to 2017-09-07 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 40 for info@oettliservice.ch 
+INFO - Migrated ID 40 for info@oettliservice.ch 
+INFO - Migrated ID 40 for info@oettliservice.ch 
+INFO - Migrated ID 2032 for b.bircher@haegni.ch 
+INFO - Migrated ID 2032 for b.bircher@haegni.ch 
+INFO - Migrated ID 2032 for b.bircher@haegni.ch 
+INFO - Migrated ID 2650 for gezim.hajdaraj@bouygues-es.com 
+INFO - Migrated ID 2650 for gezim.hajdaraj@bouygues-es.com 
+INFO - Migrated ID 2650 for gezim.hajdaraj@bouygues-es.com 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2017-09-08 to 2017-10-08 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 38 for christian.clauss@gottlieb.ch 
+INFO - Migrated ID 38 for christian.clauss@gottlieb.ch 
+INFO - Migrated ID 38 for christian.clauss@gottlieb.ch 
+INFO - Migrated ID 397 for krisztina.palhazi@dosim.ch 
+INFO - Migrated ID 397 for krisztina.palhazi@dosim.ch 
+INFO - Migrated ID 397 for krisztina.palhazi@dosim.ch 
+INFO - Migrated ID 402 for vrba@simacek-sk.sk 
+INFO - Migrated ID 402 for vrba@simacek-sk.sk 
+INFO - Migrated ID 402 for vrba@simacek-sk.sk 
+INFO - Migrated ID 1292 for Andrew.Perratt@bouygues-es.co.uk 
+INFO - Migrated ID 2450 for yvette.laidley@bouygues-es.co.uk 
+INFO - Migrated ID 2711 for daniel.abadi@diversey.com 
+INFO - Migrated ID 1292 for Andrew.Perratt@bouygues-es.co.uk 
+INFO - Migrated ID 2450 for yvette.laidley@bouygues-es.co.uk 
+INFO - Migrated ID 2711 for daniel.abadi@diversey.com 
+INFO - Migrated ID 1292 for Andrew.Perratt@bouygues-es.co.uk 
+INFO - Migrated ID 2450 for yvette.laidley@bouygues-es.co.uk 
+INFO - Migrated ID 2711 for daniel.abadi@diversey.com 
+INFO - Migrated ID 2685 for luis.de-la-rosa@bouygues-es.com 
+INFO - Migrated ID 2685 for luis.de-la-rosa@bouygues-es.com 
+INFO - Migrated ID 2685 for luis.de-la-rosa@bouygues-es.com 
+INFO - Migrated ID 2718 for michele.kuhn@resopartners.ch 
+INFO - Migrated ID 2719 for j.dali@resopartners.ch 
+INFO - Migrated ID 2718 for michele.kuhn@resopartners.ch 
+INFO - Migrated ID 2719 for j.dali@resopartners.ch 
+INFO - Migrated ID 2718 for michele.kuhn@resopartners.ch 
+INFO - Migrated ID 2719 for j.dali@resopartners.ch 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2017-10-09 to 2017-11-08 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 513 for raskovsky@simacek-sk.sk 
+INFO - Migrated ID 685 for guillermo.liras@sealedair.com 
+INFO - Migrated ID 779 for manuel.isaac@sealedair.com 
+INFO - Migrated ID 1568 for irene.frade@sealedair.com 
+INFO - Migrated ID 2732 for majercik@simacek-sk.sk 
+INFO - Migrated ID 2734 for paucova@simacek-sk.sk 
+INFO - Migrated ID 2736 for ah@cityandkent.com 
+INFO - Migrated ID 513 for raskovsky@simacek-sk.sk 
+INFO - Migrated ID 685 for guillermo.liras@sealedair.com 
+INFO - Migrated ID 779 for manuel.isaac@sealedair.com 
+INFO - Migrated ID 1568 for irene.frade@sealedair.com 
+INFO - Migrated ID 2732 for majercik@simacek-sk.sk 
+INFO - Migrated ID 2734 for paucova@simacek-sk.sk 
+INFO - Migrated ID 2736 for ah@cityandkent.com 
+INFO - Migrated ID 513 for raskovsky@simacek-sk.sk 
+INFO - Migrated ID 685 for guillermo.liras@sealedair.com 
+INFO - Migrated ID 779 for manuel.isaac@sealedair.com 
+INFO - Migrated ID 1568 for irene.frade@sealedair.com 
+INFO - Migrated ID 2732 for majercik@simacek-sk.sk 
+INFO - Migrated ID 2734 for paucova@simacek-sk.sk 
+INFO - Migrated ID 2736 for ah@cityandkent.com 
+INFO - Migrated ID 2383 for mariajose.lopez@interserve.com 
+INFO - Migrated ID 2383 for mariajose.lopez@interserve.com 
+INFO - Migrated ID 2383 for mariajose.lopez@interserve.com 
+INFO - Migrated ID 2727 for tiffany.pantelli@bouygues-es.co.uk 
+INFO - Migrated ID 2727 for tiffany.pantelli@bouygues-es.co.uk 
+INFO - Migrated ID 2727 for tiffany.pantelli@bouygues-es.co.uk 
+INFO - Migrated ID 2745 for leisha.byrne@bouygues-es.co.uk 
+INFO - Migrated ID 2745 for leisha.byrne@bouygues-es.co.uk 
+INFO - Migrated ID 2745 for leisha.byrne@bouygues-es.co.uk 
+INFO - Migrated ID 2747 for vollnhofer@ckv-gruppe.at 
+INFO - Migrated ID 2747 for vollnhofer@ckv-gruppe.at 
+INFO - Migrated ID 2747 for vollnhofer@ckv-gruppe.at 
+INFO - Migrated ID 2750 for rosmarie.jeger@srrws.ch 
+INFO - Migrated ID 2750 for rosmarie.jeger@srrws.ch 
+INFO - Migrated ID 2750 for rosmarie.jeger@srrws.ch 
+INFO - Migrated ID 2752 for magdalena.flisikowska@bouygues-es.co.uk 
+INFO - Migrated ID 2752 for magdalena.flisikowska@bouygues-es.co.uk 
+INFO - Migrated ID 2752 for magdalena.flisikowska@bouygues-es.co.uk 
+INFO - Migrated ID 2753 for reiwag@reiwag.at 
+INFO - Migrated ID 2753 for reiwag@reiwag.at 
+INFO - Migrated ID 2753 for reiwag@reiwag.at 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2017-11-09 to 2017-12-09 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 1565 for dolores.gibert@diversey.com 
+INFO - Migrated ID 1565 for dolores.gibert@diversey.com 
+INFO - Migrated ID 1565 for dolores.gibert@diversey.com 
+INFO - Migrated ID 1734 for dilan.iscen@dosim.ch 
+INFO - Migrated ID 2116 for stojanovic@reiwag.at 
+INFO - Migrated ID 1734 for dilan.iscen@dosim.ch 
+INFO - Migrated ID 2116 for stojanovic@reiwag.at 
+INFO - Migrated ID 1734 for dilan.iscen@dosim.ch 
+INFO - Migrated ID 2116 for stojanovic@reiwag.at 
+INFO - Migrated ID 2772 for januariosandra@hotmail.com 
+INFO - Migrated ID 2772 for januariosandra@hotmail.com 
+INFO - Migrated ID 2772 for januariosandra@hotmail.com 
+INFO - Migrated ID 2786 for thomas.recktenwald@srrws.ch 
+INFO - Migrated ID 2786 for thomas.recktenwald@srrws.ch 
+INFO - Migrated ID 2786 for thomas.recktenwald@srrws.ch 
+INFO - Migrated ID 2793 for Zana.Pazeraite@bouygues-es.co.uk 
+INFO - Migrated ID 2794 for Adam.Alleeson@bouygues-es.co.uk 
+INFO - Migrated ID 2793 for Zana.Pazeraite@bouygues-es.co.uk 
+INFO - Migrated ID 2794 for Adam.Alleeson@bouygues-es.co.uk 
+INFO - Migrated ID 2793 for Zana.Pazeraite@bouygues-es.co.uk 
+INFO - Migrated ID 2794 for Adam.Alleeson@bouygues-es.co.uk 
+INFO - Migrated ID 2802 for romano.tarchini@gottlieb.ch 
+INFO - Migrated ID 2802 for romano.tarchini@gottlieb.ch 
+INFO - Migrated ID 2802 for romano.tarchini@gottlieb.ch 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2017-12-10 to 2018-01-09 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 777 for marcel.bras@sealedair.com 
+INFO - Migrated ID 1118 for eduardo.sanchez@sealedair.com 
+INFO - Migrated ID 2784 for Manuel.isaac@diversey.com 
+INFO - Migrated ID 777 for marcel.bras@sealedair.com 
+INFO - Migrated ID 1118 for eduardo.sanchez@sealedair.com 
+INFO - Migrated ID 2784 for Manuel.isaac@diversey.com 
+INFO - Migrated ID 777 for marcel.bras@sealedair.com 
+INFO - Migrated ID 1118 for eduardo.sanchez@sealedair.com 
+INFO - Migrated ID 2784 for Manuel.isaac@diversey.com 
+INFO - Migrated ID 1290 for tony.shillcock@diversey.com 
+INFO - Migrated ID 2644 for jessica.carranzasanchez@bouygues-es.co.uk 
+INFO - Migrated ID 1290 for tony.shillcock@diversey.com 
+INFO - Migrated ID 2644 for jessica.carranzasanchez@bouygues-es.co.uk 
+INFO - Migrated ID 1290 for tony.shillcock@diversey.com 
+INFO - Migrated ID 2644 for jessica.carranzasanchez@bouygues-es.co.uk 
+INFO - Migrated ID 2381 for stanislav.lesko@diversey.com 
+INFO - Migrated ID 2387 for vargova.iveta@rpmservice.eu 
+INFO - Migrated ID 2388 for poravec4@gmail.com 
+INFO - Migrated ID 2389 for bakocka.bronislav@rpmservice.eu 
+INFO - Migrated ID 2404 for bakocka.branislav@rpmservice.eu 
+INFO - Migrated ID 2502 for gonda.jakub@rpmservice.eu 
+INFO - Migrated ID 2780 for marcinova.jana@rpmservice.eu 
+INFO - Migrated ID 2787 for Sergio.Baca@irvss.com 
+INFO - Migrated ID 2381 for stanislav.lesko@diversey.com 
+INFO - Migrated ID 2387 for vargova.iveta@rpmservice.eu 
+INFO - Migrated ID 2388 for poravec4@gmail.com 
+INFO - Migrated ID 2389 for bakocka.bronislav@rpmservice.eu 
+INFO - Migrated ID 2404 for bakocka.branislav@rpmservice.eu 
+INFO - Migrated ID 2502 for gonda.jakub@rpmservice.eu 
+INFO - Migrated ID 2780 for marcinova.jana@rpmservice.eu 
+INFO - Migrated ID 2787 for Sergio.Baca@irvss.com 
+INFO - Migrated ID 2381 for stanislav.lesko@diversey.com 
+INFO - Migrated ID 2387 for vargova.iveta@rpmservice.eu 
+INFO - Migrated ID 2388 for poravec4@gmail.com 
+INFO - Migrated ID 2389 for bakocka.bronislav@rpmservice.eu 
+INFO - Migrated ID 2404 for bakocka.branislav@rpmservice.eu 
+INFO - Migrated ID 2502 for gonda.jakub@rpmservice.eu 
+INFO - Migrated ID 2780 for marcinova.jana@rpmservice.eu 
+INFO - Migrated ID 2787 for Sergio.Baca@irvss.com 
+INFO - Migrated ID 2681 for domingos.pires@dosim.ch 
+INFO - Migrated ID 2681 for domingos.pires@dosim.ch 
+INFO - Migrated ID 2681 for domingos.pires@dosim.ch 
+INFO - Migrated ID 2743 for catherine.horspool@bouygues-es.co.uk 
+INFO - Migrated ID 2795 for Luke.Alleeson@bouygues-es.co.uk 
+INFO - Migrated ID 2743 for catherine.horspool@bouygues-es.co.uk 
+INFO - Migrated ID 2795 for Luke.Alleeson@bouygues-es.co.uk 
+INFO - Migrated ID 2743 for catherine.horspool@bouygues-es.co.uk 
+INFO - Migrated ID 2795 for Luke.Alleeson@bouygues-es.co.uk 
+INFO - Migrated ID 2781 for manuela.fenner@srrws.ch 
+INFO - Migrated ID 2809 for marielle.mekolo@dosim.ch 
+INFO - Migrated ID 2781 for manuela.fenner@srrws.ch 
+INFO - Migrated ID 2809 for marielle.mekolo@dosim.ch 
+INFO - Migrated ID 2781 for manuela.fenner@srrws.ch 
+INFO - Migrated ID 2809 for marielle.mekolo@dosim.ch 
+INFO - Migrated ID 2866 for yimer.felizfeliz@bouygues-es.co.uk 
+INFO - Migrated ID 2867 for jair.botero@bouygues-es.co.uk 
+INFO - Migrated ID 2868 for manuel.galvisbetancur@bouygues-es.co.uk 
+INFO - Migrated ID 2869 for christopher.simmons@bouygues-es.co.uk 
+INFO - Migrated ID 2870 for cesar.estradamarin@bouygues-es.co.uk 
+INFO - Migrated ID 2871 for atikur.chowdhury@bouygues-es.co.uk 
+INFO - Migrated ID 2872 for abibatu.kalokoh@bouygues-es.co.uk 
+INFO - Migrated ID 2873 for stella.morgan@bouygues-es.co.uk 
+INFO - Migrated ID 2874 for florence.edenamigho@bouygues-es.co.uk 
+INFO - Migrated ID 2875 for silva.skriptiene@bouygues-es.co.uk 
+INFO - Migrated ID 2866 for yimer.felizfeliz@bouygues-es.co.uk 
+INFO - Migrated ID 2867 for jair.botero@bouygues-es.co.uk 
+INFO - Migrated ID 2868 for manuel.galvisbetancur@bouygues-es.co.uk 
+INFO - Migrated ID 2869 for christopher.simmons@bouygues-es.co.uk 
+INFO - Migrated ID 2870 for cesar.estradamarin@bouygues-es.co.uk 
+INFO - Migrated ID 2871 for atikur.chowdhury@bouygues-es.co.uk 
+INFO - Migrated ID 2872 for abibatu.kalokoh@bouygues-es.co.uk 
+INFO - Migrated ID 2873 for stella.morgan@bouygues-es.co.uk 
+INFO - Migrated ID 2874 for florence.edenamigho@bouygues-es.co.uk 
+INFO - Migrated ID 2875 for silva.skriptiene@bouygues-es.co.uk 
+INFO - Migrated ID 2866 for yimer.felizfeliz@bouygues-es.co.uk 
+INFO - Migrated ID 2867 for jair.botero@bouygues-es.co.uk 
+INFO - Migrated ID 2868 for manuel.galvisbetancur@bouygues-es.co.uk 
+INFO - Migrated ID 2869 for christopher.simmons@bouygues-es.co.uk 
+INFO - Migrated ID 2870 for cesar.estradamarin@bouygues-es.co.uk 
+INFO - Migrated ID 2871 for atikur.chowdhury@bouygues-es.co.uk 
+INFO - Migrated ID 2872 for abibatu.kalokoh@bouygues-es.co.uk 
+INFO - Migrated ID 2873 for stella.morgan@bouygues-es.co.uk 
+INFO - Migrated ID 2874 for florence.edenamigho@bouygues-es.co.uk 
+INFO - Migrated ID 2875 for silva.skriptiene@bouygues-es.co.uk 
+INFO - Migrated ID 2888 for emanuel.krug@bouygues-es.com 
+INFO - Migrated ID 2888 for emanuel.krug@bouygues-es.com 
+INFO - Migrated ID 2888 for emanuel.krug@bouygues-es.com 
+INFO - Migrated ID 2924 for nicholin.reed@bouygues-es.co.uk 
+INFO - Migrated ID 2924 for nicholin.reed@bouygues-es.co.uk 
+INFO - Migrated ID 2924 for nicholin.reed@bouygues-es.co.uk 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2018-01-10 to 2018-02-09 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 631 for beth.lindsay@sealedair.com 
+INFO - Migrated ID 2939 for pere.olive@irvss.com 
+INFO - Migrated ID 2940 for jordi.garcia@irvss.com 
+INFO - Migrated ID 2941 for susana.ordonez@irvss.com 
+INFO - Migrated ID 631 for beth.lindsay@sealedair.com 
+INFO - Migrated ID 2939 for pere.olive@irvss.com 
+INFO - Migrated ID 2940 for jordi.garcia@irvss.com 
+INFO - Migrated ID 2941 for susana.ordonez@irvss.com 
+INFO - Migrated ID 631 for beth.lindsay@sealedair.com 
+INFO - Migrated ID 2939 for pere.olive@irvss.com 
+INFO - Migrated ID 2940 for jordi.garcia@irvss.com 
+INFO - Migrated ID 2941 for susana.ordonez@irvss.com 
+INFO - Migrated ID 2461 for stephane.scherrer@gottlieb.ch 
+INFO - Migrated ID 2461 for stephane.scherrer@gottlieb.ch 
+INFO - Migrated ID 2461 for stephane.scherrer@gottlieb.ch 
+INFO - Migrated ID 2501 for missik.gejza@rpmservice.eu 
+INFO - Migrated ID 2501 for missik.gejza@rpmservice.eu 
+INFO - Migrated ID 2501 for missik.gejza@rpmservice.eu 
+INFO - Migrated ID 2771 for susana.bermudez@interserve.com 
+INFO - Migrated ID 2771 for susana.bermudez@interserve.com 
+INFO - Migrated ID 2771 for susana.bermudez@interserve.com 
+INFO - Migrated ID 2951 for javier.1.lopez@irvss.com 
+INFO - Migrated ID 2951 for javier.1.lopez@irvss.com 
+INFO - Migrated ID 2951 for javier.1.lopez@irvss.com 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2018-02-10 to 2018-03-12 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 1295 for edilia_ariz@yahoo.com 
+INFO - Migrated ID 1295 for edilia_ariz@yahoo.com 
+INFO - Migrated ID 1295 for edilia_ariz@yahoo.com 
+INFO - Migrated ID 1871 for mrodrigues@museumoflondon.org.uk 
+INFO - Migrated ID 1874 for GM@ckconsumables.com 
+INFO - Migrated ID 3045 for IP@CKgroupservices.com 
+INFO - Migrated ID 3046 for varkonyi.laszlo@dussmann.hu 
+INFO - Migrated ID 1871 for mrodrigues@museumoflondon.org.uk 
+INFO - Migrated ID 1874 for GM@ckconsumables.com 
+INFO - Migrated ID 3045 for IP@CKgroupservices.com 
+INFO - Migrated ID 3046 for varkonyi.laszlo@dussmann.hu 
+INFO - Migrated ID 1871 for mrodrigues@museumoflondon.org.uk 
+INFO - Migrated ID 1874 for GM@ckconsumables.com 
+INFO - Migrated ID 3045 for IP@CKgroupservices.com 
+INFO - Migrated ID 3046 for varkonyi.laszlo@dussmann.hu 
+INFO - Migrated ID 2113 for laura.mehmetaj@gottlieb.ch 
+INFO - Migrated ID 2373 for m.karayel@bouygues-es.com 
+INFO - Migrated ID 3156 for laura.mehmetaj@gottlieb.ch 
+INFO - Migrated ID 3157 for erika@dussmann.lt 
+INFO - Migrated ID 2113 for laura.mehmetaj@gottlieb.ch 
+INFO - Migrated ID 2373 for m.karayel@bouygues-es.com 
+INFO - Migrated ID 3156 for laura.mehmetaj@gottlieb.ch 
+INFO - Migrated ID 3157 for erika@dussmann.lt 
+INFO - Migrated ID 2113 for laura.mehmetaj@gottlieb.ch 
+INFO - Migrated ID 2373 for m.karayel@bouygues-es.com 
+INFO - Migrated ID 3156 for laura.mehmetaj@gottlieb.ch 
+INFO - Migrated ID 3157 for erika@dussmann.lt 
+INFO - Migrated ID 2675 for matthias.broger@diversey.com 
+INFO - Migrated ID 2675 for matthias.broger@diversey.com 
+INFO - Migrated ID 2675 for matthias.broger@diversey.com 
+INFO - Migrated ID 2735 for michalovich@simacek-sk.sk 
+INFO - Migrated ID 2735 for michalovich@simacek-sk.sk 
+INFO - Migrated ID 2735 for michalovich@simacek-sk.sk 
+INFO - Migrated ID 2789 for daniel.abadi@diversey.com 
+INFO - Migrated ID 2789 for daniel.abadi@diversey.com 
+INFO - Migrated ID 2789 for daniel.abadi@diversey.com 
+INFO - Migrated ID 3080 for g.cruini@integralservice.it 
+INFO - Migrated ID 3080 for g.cruini@integralservice.it 
+INFO - Migrated ID 3080 for g.cruini@integralservice.it 
+INFO - Migrated ID 3095 for kocurikova@simacek-sk.sk 
+INFO - Migrated ID 3108 for raskovsky@simacek-sk.sk 
+INFO - Migrated ID 3095 for kocurikova@simacek-sk.sk 
+INFO - Migrated ID 3108 for raskovsky@simacek-sk.sk 
+INFO - Migrated ID 3095 for kocurikova@simacek-sk.sk 
+INFO - Migrated ID 3108 for raskovsky@simacek-sk.sk 
+INFO - Migrated ID 3121 for vicente.balaguer@irvss.com 
+INFO - Migrated ID 3121 for vicente.balaguer@irvss.com 
+INFO - Migrated ID 3121 for vicente.balaguer@irvss.com 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2018-03-13 to 2018-04-12 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 687 for valentin.sanchez@Diversey.com 
+INFO - Migrated ID 687 for valentin.sanchez@Diversey.com 
+INFO - Migrated ID 687 for valentin.sanchez@Diversey.com 
+INFO - Migrated ID 2584 for jon.baldwin@sealedair.com 
+INFO - Migrated ID 2913 for Claudia.Silvacarmo@bouygues-es.co.uk 
+INFO - Migrated ID 3197 for liskova@simacek-sk.sk 
+INFO - Migrated ID 2584 for jon.baldwin@sealedair.com 
+INFO - Migrated ID 2913 for Claudia.Silvacarmo@bouygues-es.co.uk 
+INFO - Migrated ID 3197 for liskova@simacek-sk.sk 
+INFO - Migrated ID 2584 for jon.baldwin@sealedair.com 
+INFO - Migrated ID 2913 for Claudia.Silvacarmo@bouygues-es.co.uk 
+INFO - Migrated ID 3197 for liskova@simacek-sk.sk 
+INFO - Migrated ID 2646 for diego.lopezcabrera@bouygues-es.co.uk 
+INFO - Migrated ID 2646 for diego.lopezcabrera@bouygues-es.co.uk 
+INFO - Migrated ID 2646 for diego.lopezcabrera@bouygues-es.co.uk 
+INFO - Migrated ID 2740 for zoltan.toth@nbt.nhs.uk 
+INFO - Migrated ID 3166 for adrian269@btinternet.com 
+INFO - Migrated ID 3167 for se509819@gmail.com 
+INFO - Migrated ID 3168 for erika@dussmann.lt 
+INFO - Migrated ID 3169 for olita.v@dussmann.lt 
+INFO - Migrated ID 2740 for zoltan.toth@nbt.nhs.uk 
+INFO - Migrated ID 3166 for adrian269@btinternet.com 
+INFO - Migrated ID 3167 for se509819@gmail.com 
+INFO - Migrated ID 3168 for erika@dussmann.lt 
+INFO - Migrated ID 3169 for olita.v@dussmann.lt 
+INFO - Migrated ID 2740 for zoltan.toth@nbt.nhs.uk 
+INFO - Migrated ID 3166 for adrian269@btinternet.com 
+INFO - Migrated ID 3167 for se509819@gmail.com 
+INFO - Migrated ID 3168 for erika@dussmann.lt 
+INFO - Migrated ID 3169 for olita.v@dussmann.lt 
+INFO - Migrated ID 2944 for kandler@ckv-gruppe.at 
+INFO - Migrated ID 3179 for Elke.Schaber@bruker.com 
+INFO - Migrated ID 2944 for kandler@ckv-gruppe.at 
+INFO - Migrated ID 3179 for Elke.Schaber@bruker.com 
+INFO - Migrated ID 2944 for kandler@ckv-gruppe.at 
+INFO - Migrated ID 3179 for Elke.Schaber@bruker.com 
+INFO - Migrated ID 3165 for maurizio.nicastro@bouygues-es.com 
+INFO - Migrated ID 3165 for maurizio.nicastro@bouygues-es.com 
+INFO - Migrated ID 3165 for maurizio.nicastro@bouygues-es.com 
+INFO - Migrated ID 3177 for XA_Harald.Pflug@bruker.com 
+INFO - Migrated ID 3178 for Birgit.Fischer@bruker.com 
+INFO - Migrated ID 3177 for XA_Harald.Pflug@bruker.com 
+INFO - Migrated ID 3178 for Birgit.Fischer@bruker.com 
+INFO - Migrated ID 3177 for XA_Harald.Pflug@bruker.com 
+INFO - Migrated ID 3178 for Birgit.Fischer@bruker.com 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2018-04-13 to 2018-05-13 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 174 for p.boeni@haegni.ch 
+INFO - Migrated ID 3216 for s.panighetti@haegni.ch 
+INFO - Migrated ID 174 for p.boeni@haegni.ch 
+INFO - Migrated ID 3216 for s.panighetti@haegni.ch 
+INFO - Migrated ID 174 for p.boeni@haegni.ch 
+INFO - Migrated ID 3216 for s.panighetti@haegni.ch 
+INFO - Migrated ID 537 for sonja@hiltl.ch 
+INFO - Migrated ID 865 for a.baratovic@haegni.ch 
+INFO - Migrated ID 3239 for milana.kocic@gottlieb.ch 
+INFO - Migrated ID 537 for sonja@hiltl.ch 
+INFO - Migrated ID 865 for a.baratovic@haegni.ch 
+INFO - Migrated ID 3239 for milana.kocic@gottlieb.ch 
+INFO - Migrated ID 537 for sonja@hiltl.ch 
+INFO - Migrated ID 865 for a.baratovic@haegni.ch 
+INFO - Migrated ID 3239 for milana.kocic@gottlieb.ch 
+INFO - Migrated ID 924 for le@skaraborgs.se 
+INFO - Migrated ID 3229 for maje@skaraborgs.se 
+INFO - Migrated ID 3230 for cagu@skaraborgs.se 
+INFO - Migrated ID 924 for le@skaraborgs.se 
+INFO - Migrated ID 3229 for maje@skaraborgs.se 
+INFO - Migrated ID 3230 for cagu@skaraborgs.se 
+INFO - Migrated ID 924 for le@skaraborgs.se 
+INFO - Migrated ID 3229 for maje@skaraborgs.se 
+INFO - Migrated ID 3230 for cagu@skaraborgs.se 
+INFO - Migrated ID 3222 for korbelova@simacek-sk.sk 
+INFO - Migrated ID 3222 for korbelova@simacek-sk.sk 
+INFO - Migrated ID 3222 for korbelova@simacek-sk.sk 
+INFO - Migrated ID 3237 for philippe.weber@schoenheim.ch 
+INFO - Migrated ID 3237 for philippe.weber@schoenheim.ch 
+INFO - Migrated ID 3237 for philippe.weber@schoenheim.ch 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2018-05-14 to 2018-06-13 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 97 for milana.kocic@gottlieb.ch 
+INFO - Migrated ID 97 for milana.kocic@gottlieb.ch 
+INFO - Migrated ID 97 for milana.kocic@gottlieb.ch 
+INFO - Migrated ID 1667 for matthias.broger@diversey.com 
+INFO - Migrated ID 3241 for stefan.aregger@diversey.com 
+INFO - Migrated ID 1667 for matthias.broger@diversey.com 
+INFO - Migrated ID 3241 for stefan.aregger@diversey.com 
+INFO - Migrated ID 1667 for matthias.broger@diversey.com 
+INFO - Migrated ID 3241 for stefan.aregger@diversey.com 
+INFO - Migrated ID 2709 for valentin.mendez@irvss.com 
+INFO - Migrated ID 3282 for rocio.garcia@interserve.com 
+INFO - Migrated ID 2709 for valentin.mendez@irvss.com 
+INFO - Migrated ID 3282 for rocio.garcia@interserve.com 
+INFO - Migrated ID 2709 for valentin.mendez@irvss.com 
+INFO - Migrated ID 3282 for rocio.garcia@interserve.com 
+INFO - Migrated ID 2754 for matteo.figini@gottlieb.ch 
+INFO - Migrated ID 2754 for matteo.figini@gottlieb.ch 
+INFO - Migrated ID 2754 for matteo.figini@gottlieb.ch 
+INFO - Migrated ID 3286 for f.sortino@integralservice.it 
+INFO - Migrated ID 3286 for f.sortino@integralservice.it 
+INFO - Migrated ID 3286 for f.sortino@integralservice.it 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2018-06-14 to 2018-07-14 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 1333 for Stephen.leonard@bouygues-es.co.uk 
+INFO - Migrated ID 1333 for Stephen.leonard@bouygues-es.co.uk 
+INFO - Migrated ID 1333 for Stephen.leonard@bouygues-es.co.uk 
+INFO - Migrated ID 2208 for natasa.petrovic@gottlieb.ch 
+INFO - Migrated ID 2208 for natasa.petrovic@gottlieb.ch 
+INFO - Migrated ID 2208 for natasa.petrovic@gottlieb.ch 
+INFO - Migrated ID 2647 for juan.concha@bouygues-es.co.uk 
+INFO - Migrated ID 2897 for diego.herrada@bouygues-es.co.uk 
+INFO - Migrated ID 2647 for juan.concha@bouygues-es.co.uk 
+INFO - Migrated ID 2897 for diego.herrada@bouygues-es.co.uk 
+INFO - Migrated ID 2647 for juan.concha@bouygues-es.co.uk 
+INFO - Migrated ID 2897 for diego.herrada@bouygues-es.co.uk 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2018-07-15 to 2018-08-14 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 322 for Thomas.Molinaro@de.issworld.com 
+INFO - Migrated ID 471 for Roswitha.Falck@de.issworld.com 
+INFO - Migrated ID 578 for philipp.aschoff@de.issworld.com 
+INFO - Migrated ID 861 for arne.bostelmann@de.issworld.com 
+INFO - Migrated ID 2000 for dirk.krause@de.issworld.com 
+INFO - Migrated ID 2586 for anita.mueller@de.issworld.com 
+INFO - Migrated ID 3358 for ruckelshausen@reiwag.at 
+INFO - Migrated ID 322 for Thomas.Molinaro@de.issworld.com 
+INFO - Migrated ID 471 for Roswitha.Falck@de.issworld.com 
+INFO - Migrated ID 578 for philipp.aschoff@de.issworld.com 
+INFO - Migrated ID 861 for arne.bostelmann@de.issworld.com 
+INFO - Migrated ID 2000 for dirk.krause@de.issworld.com 
+INFO - Migrated ID 2586 for anita.mueller@de.issworld.com 
+INFO - Migrated ID 3358 for ruckelshausen@reiwag.at 
+INFO - Migrated ID 322 for Thomas.Molinaro@de.issworld.com 
+INFO - Migrated ID 471 for Roswitha.Falck@de.issworld.com 
+INFO - Migrated ID 578 for philipp.aschoff@de.issworld.com 
+INFO - Migrated ID 861 for arne.bostelmann@de.issworld.com 
+INFO - Migrated ID 2000 for dirk.krause@de.issworld.com 
+INFO - Migrated ID 2586 for anita.mueller@de.issworld.com 
+INFO - Migrated ID 3358 for ruckelshausen@reiwag.at 
+INFO - Migrated ID 2014 for dieter.kirchheim@messe-reinigung.de 
+INFO - Migrated ID 3311 for Alfred.schreck@messe-reinigung.de 
+INFO - Migrated ID 3312 for Alfred.schreck@messe-reinigung.de 
+INFO - Migrated ID 3313 for Alfred.schreck@messe-reinigung.de 
+INFO - Migrated ID 2014 for dieter.kirchheim@messe-reinigung.de 
+INFO - Migrated ID 3311 for Alfred.schreck@messe-reinigung.de 
+INFO - Migrated ID 3312 for Alfred.schreck@messe-reinigung.de 
+INFO - Migrated ID 3313 for Alfred.schreck@messe-reinigung.de 
+INFO - Migrated ID 2014 for dieter.kirchheim@messe-reinigung.de 
+INFO - Migrated ID 3311 for Alfred.schreck@messe-reinigung.de 
+INFO - Migrated ID 3312 for Alfred.schreck@messe-reinigung.de 
+INFO - Migrated ID 3313 for Alfred.schreck@messe-reinigung.de 
+INFO - Migrated ID 2777 for messe@duesseldorf.de 
+INFO - Migrated ID 2777 for messe@duesseldorf.de 
+INFO - Migrated ID 2777 for messe@duesseldorf.de 
+INFO - Migrated ID 3327 for rita.soares@bouygues-es.co.uk 
+INFO - Migrated ID 3328 for michael.jones@bouygues-es.co.uk 
+INFO - Migrated ID 3329 for karen.sleator@bouygues-es.co.uk 
+INFO - Migrated ID 3330 for robert.chandler@bouygues-es.co.uk 
+INFO - Migrated ID 3331 for abdelouahab.bekkis@bouygues-es.co.uk 
+INFO - Migrated ID 3327 for rita.soares@bouygues-es.co.uk 
+INFO - Migrated ID 3328 for michael.jones@bouygues-es.co.uk 
+INFO - Migrated ID 3329 for karen.sleator@bouygues-es.co.uk 
+INFO - Migrated ID 3330 for robert.chandler@bouygues-es.co.uk 
+INFO - Migrated ID 3331 for abdelouahab.bekkis@bouygues-es.co.uk 
+INFO - Migrated ID 3327 for rita.soares@bouygues-es.co.uk 
+INFO - Migrated ID 3328 for michael.jones@bouygues-es.co.uk 
+INFO - Migrated ID 3329 for karen.sleator@bouygues-es.co.uk 
+INFO - Migrated ID 3330 for robert.chandler@bouygues-es.co.uk 
+INFO - Migrated ID 3331 for abdelouahab.bekkis@bouygues-es.co.uk 
+INFO - Migrated ID 3357 for k.oberweger@phils.at 
+INFO - Migrated ID 3362 for ruckelshausen@reiwag.at 
+INFO - Migrated ID 3357 for k.oberweger@phils.at 
+INFO - Migrated ID 3362 for ruckelshausen@reiwag.at 
+INFO - Migrated ID 3357 for k.oberweger@phils.at 
+INFO - Migrated ID 3362 for ruckelshausen@reiwag.at 
+INFO - Migrated Recipient from Mo4Jo to SmartView Employee from 2018-08-15 to 2018-09-11 
+INFO - Total 0 records has been imported with 0 error

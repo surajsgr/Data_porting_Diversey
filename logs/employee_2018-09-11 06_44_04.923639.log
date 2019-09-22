@@ -1,0 +1,5 @@
+INFO - Mo4Jo DB: 192.168.10.62 (SVR_Diversey_CheckIt)
+INFO - SmartView DB: localhost (smartview_flask)
+INFO - Migrating Maintenance from Mo4Jo to SmartView Maintenance_task from 2012-01-01 to 2018-09-11
+INFO - Data needs to be ported for 2445 days
+

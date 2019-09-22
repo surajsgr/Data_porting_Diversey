@@ -1,0 +1,440 @@
+INFO - Mo4Jo DB: 192.168.10.62 (SVR_Diversey_CheckIt)
+INFO - SmartView DB: localhost (smartview_flask)
+INFO - Migrating Maintenance from Mo4Jo to SmartView Maintenance_task from 2012-01-01 to 2018-09-11
+INFO - Data needs to be ported for 2445 days
+
+INFO - Migrated ID 51 for Maintenance ()
+INFO - Migrated ID 52 for Maintenance ()
+INFO - Migrated ID 53 for Maintenance ()
+INFO - Migrated ID 55 for Maintenance ()
+INFO - Migrated ID 56 for Maintenance ()
+INFO - Migrated ID 57 for Maintenance ()
+INFO - Migrated ID 58 for Maintenance ()
+INFO - Migrated ID 59 for Maintenance ()
+INFO - Migrated ID 60 for Maintenance ()
+INFO - Migrated ID 61 for Maintenance ()
+INFO - Migrated ID 62 for Maintenance ()
+INFO - Migrated ID 63 for Maintenance ()
+INFO - Migrated ID 64 for Maintenance ()
+INFO - Migrated ID 65 for Maintenance ()
+INFO - Migrated ID 66 for Maintenance ()
+INFO - Migrated ID 67 for Maintenance ()
+INFO - Migrated ID 68 for Maintenance ()
+INFO - Migrated ID 69 for Maintenance ()
+INFO - Migrated ID 70 for Maintenance ()
+INFO - Migrated ID 71 for Maintenance ()
+INFO - Migrated ID 72 for Maintenance ()
+INFO - Migrated ID 73 for Maintenance ()
+INFO - Migrated ID 74 for Maintenance ()
+INFO - Migrated ID 75 for Maintenance ()
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2012-01-01 to 2012-01-31 
+INFO - Total 24 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2012-02-01 to 2012-03-02 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2012-03-03 to 2012-04-02 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2012-04-03 to 2012-05-03 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2012-05-04 to 2012-06-03 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2012-06-04 to 2012-07-04 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2012-07-05 to 2012-08-04 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 252 for Maintenance (Kühlschrank räumen und säubern.)
+INFO - Migrated ID 253 for Maintenance (Abfall leeren, Abfallbehälter reinigen und neu bestücken.)
+INFO - Migrated ID 254 for Maintenance ()
+INFO - Migrated ID 255 for Maintenance ()
+INFO - Migrated ID 256 for Maintenance (Badezimmerschrank leeren und reinigen.)
+INFO - Migrated ID 257 for Maintenance ()
+INFO - Migrated ID 258 for Maintenance ()
+INFO - Migrated ID 259 for Maintenance (zusätzliche Kleiderstange notwendig)
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2012-08-05 to 2012-09-04 
+INFO - Total 8 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2012-09-05 to 2012-10-05 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 262 for Maintenance (Haloline 54 500W)
+INFO - Migrated ID 77 for Maintenance (FL 36W)
+INFO - Migrated ID 78 for Maintenance (Halogen cla eco 42W)
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2012-10-06 to 2012-11-05 
+INFO - Total 3 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2012-11-06 to 2012-12-06 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 298 for Maintenance ()
+INFO - Migrated ID 299 for Maintenance ()
+INFO - Migrated ID 300 for Maintenance ()
+INFO - Migrated ID 301 for Maintenance ()
+INFO - Migrated ID 302 for Maintenance ()
+INFO - Migrated ID 303 for Maintenance ()
+INFO - Migrated ID 304 for Maintenance ()
+INFO - Migrated ID 305 for Maintenance ()
+INFO - Migrated ID 306 for Maintenance ()
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2012-12-07 to 2013-01-06 
+INFO - Total 9 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2013-01-07 to 2013-02-06 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2013-02-07 to 2013-03-09 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 345 for Maintenance ()
+INFO - Migrated ID 346 for Maintenance ()
+INFO - Migrated ID 347 for Maintenance ()
+INFO - Migrated ID 348 for Maintenance ()
+INFO - Migrated ID 349 for Maintenance ()
+INFO - Migrated ID 350 for Maintenance ()
+INFO - Migrated ID 351 for Maintenance ()
+INFO - Migrated ID 352 for Maintenance ()
+INFO - Migrated ID 353 for Maintenance ()
+INFO - Migrated ID 354 for Maintenance ()
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2013-03-10 to 2013-04-09 
+INFO - Total 10 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2013-04-10 to 2013-05-10 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2013-05-11 to 2013-06-10 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2013-06-11 to 2013-07-11 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2013-07-12 to 2013-08-11 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2013-08-12 to 2013-09-11 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2013-09-12 to 2013-10-12 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 482 for Maintenance (Spiegel muss ausgewechselt werden)
+INFO - Migrated ID 483 for Maintenance (Waschbecken muss repariert werden)
+INFO - Migrated ID 484 for Maintenance ()
+INFO - Migrated ID 485 for Maintenance ()
+INFO - Migrated ID 486 for Maintenance ()
+INFO - Migrated ID 487 for Maintenance ()
+INFO - Migrated ID 488 for Maintenance ()
+INFO - Migrated ID 489 for Maintenance ()
+INFO - Migrated ID 490 for Maintenance ()
+INFO - Migrated ID 54 for Maintenance ()
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2013-10-13 to 2013-11-12 
+INFO - Total 10 records has been imported with 0 error
+INFO - Migrated ID 492 for Maintenance ()
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2013-11-13 to 2013-12-13 
+INFO - Total 1 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2013-12-14 to 2014-01-13 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2014-01-14 to 2014-02-13 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2014-02-14 to 2014-03-16 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2014-03-17 to 2014-04-16 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2014-04-17 to 2014-05-17 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2014-05-18 to 2014-06-17 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 675 for Maintenance ()
+INFO - Migrated ID 676 for Maintenance ()
+INFO - Migrated ID 677 for Maintenance ()
+INFO - Migrated ID 678 for Maintenance ()
+INFO - Migrated ID 679 for Maintenance ()
+INFO - Migrated ID 680 for Maintenance ()
+INFO - Migrated ID 681 for Maintenance ()
+INFO - Migrated ID 682 for Maintenance ()
+INFO - Migrated ID 683 for Maintenance ()
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2014-06-18 to 2014-07-18 
+INFO - Total 9 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2014-07-19 to 2014-08-18 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 695 for Maintenance ()
+INFO - Migrated ID 696 for Maintenance ()
+INFO - Migrated ID 697 for Maintenance ()
+INFO - Migrated ID 698 for Maintenance ()
+INFO - Migrated ID 699 for Maintenance ()
+INFO - Migrated ID 684 for Maintenance ()
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2014-08-19 to 2014-09-18 
+INFO - Total 6 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2014-09-19 to 2014-10-19 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 727 for Maintenance ()
+INFO - Migrated ID 722 for Maintenance ()
+INFO - Migrated ID 723 for Maintenance ()
+INFO - Migrated ID 724 for Maintenance ()
+INFO - Migrated ID 725 for Maintenance ()
+INFO - Migrated ID 728 for Maintenance (Seifenspender muss repariert oder ersetzt werden.)
+INFO - Migrated ID 729 for Maintenance (Reparieren oder ersetzen.)
+INFO - Migrated ID 730 for Maintenance (Muss repariert werden.)
+INFO - Migrated ID 731 for Maintenance (Muss repariert werden.)
+INFO - Migrated ID 732 for Maintenance (Birne/Röhre muss ersetzt werden.)
+INFO - Migrated ID 733 for Maintenance (Muss ersetzt werden)
+INFO - Migrated ID 734 for Maintenance (muss repariert werden.)
+INFO - Migrated ID 735 for Maintenance ()
+INFO - Migrated ID 736 for Maintenance ()
+INFO - Migrated ID 737 for Maintenance ()
+INFO - Migrated ID 738 for Maintenance (Muss repariert oder ersetzt werden.)
+INFO - Migrated ID 739 for Maintenance ()
+INFO - Migrated ID 757 for Maintenance ()
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2014-10-20 to 2014-11-19 
+INFO - Total 18 records has been imported with 0 error
+INFO - Migrated ID 758 for Maintenance ()
+INFO - Migrated ID 759 for Maintenance ()
+INFO - Migrated ID 760 for Maintenance ()
+INFO - Migrated ID 761 for Maintenance ()
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2014-11-20 to 2014-12-20 
+INFO - Total 4 records has been imported with 0 error
+INFO - Migrated ID 831 for Maintenance ()
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2014-12-21 to 2015-01-20 
+INFO - Total 1 records has been imported with 0 error
+INFO - Migrated ID 772 for Maintenance ()
+INFO - Migrated ID 773 for Maintenance ()
+INFO - Migrated ID 774 for Maintenance ()
+INFO - Migrated ID 775 for Maintenance ()
+INFO - Migrated ID 776 for Maintenance ()
+INFO - Migrated ID 777 for Maintenance ()
+INFO - Migrated ID 778 for Maintenance ()
+INFO - Migrated ID 779 for Maintenance ()
+INFO - Migrated ID 780 for Maintenance ()
+INFO - Migrated ID 781 for Maintenance ()
+INFO - Migrated ID 782 for Maintenance ()
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2015-01-21 to 2015-02-20 
+INFO - Total 11 records has been imported with 0 error
+INFO - Migrated ID 763 for Maintenance ()
+INFO - Migrated ID 764 for Maintenance ()
+INFO - Migrated ID 765 for Maintenance ()
+INFO - Migrated ID 766 for Maintenance ()
+INFO - Migrated ID 767 for Maintenance ()
+INFO - Migrated ID 768 for Maintenance ()
+INFO - Migrated ID 769 for Maintenance ()
+INFO - Migrated ID 770 for Maintenance ()
+INFO - Migrated ID 771 for Maintenance ()
+INFO - Migrated ID 865 for Maintenance ()
+INFO - Migrated ID 866 for Maintenance ()
+INFO - Migrated ID 867 for Maintenance (ersetzen)
+INFO - Migrated ID 868 for Maintenance ()
+INFO - Migrated ID 869 for Maintenance (abbürsten bzw. absaugen)
+INFO - Migrated ID 870 for Maintenance ()
+INFO - Migrated ID 871 for Maintenance (AENA Lanzarote)
+INFO - Migrated ID 872 for Maintenance (AENA Lanzarote)
+INFO - Migrated ID 873 for Maintenance (AENA Lanzarote)
+INFO - Migrated ID 874 for Maintenance (AENA Lanzarote)
+INFO - Migrated ID 875 for Maintenance (AENA Lanzarote)
+INFO - Migrated ID 876 for Maintenance (AENA Lanzarote)
+INFO - Migrated ID 877 for Maintenance (AENA Lanzarote)
+INFO - Migrated ID 878 for Maintenance (AENA Lanzarote)
+INFO - Migrated ID 879 for Maintenance (AENA Lanzarote)
+INFO - Migrated ID 880 for Maintenance (AENA Lanzarote)
+INFO - Migrated ID 881 for Maintenance (AENA Lanzarote)
+INFO - Migrated ID 882 for Maintenance (AENA Lanzarote)
+INFO - Migrated ID 883 for Maintenance (AENA Lanzarote)
+INFO - Migrated ID 884 for Maintenance (AENA Lanzarote)
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2015-02-21 to 2015-03-23 
+INFO - Total 29 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2015-03-24 to 2015-04-23 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 907 for Maintenance (Áreas Barajas)
+INFO - Migrated ID 908 for Maintenance (Áreas Barajas)
+INFO - Migrated ID 909 for Maintenance (Áreas Barajas)
+INFO - Migrated ID 910 for Maintenance (Áreas Barajas)
+INFO - Migrated ID 911 for Maintenance (Áreas Barajas)
+INFO - Migrated ID 912 for Maintenance (Áreas Barajas)
+INFO - Migrated ID 726 for Maintenance (Áreas Barajas / Empark)
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2015-04-24 to 2015-05-24 
+INFO - Total 7 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2015-05-25 to 2015-06-24 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 916 for Maintenance (Áreas Barajas)
+INFO - Migrated ID 918 for Maintenance (Áreas Barajas)
+INFO - Migrated ID 923 for Maintenance (Dispensador de jabón roto)
+INFO - Migrated ID 924 for Maintenance (Residuos abundante de sangre)
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2015-06-25 to 2015-07-25 
+INFO - Total 4 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2015-07-26 to 2015-08-25 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2015-08-26 to 2015-09-25 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2015-09-26 to 2015-10-26 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 946 for Maintenance (de des: Cumple
+)
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2015-10-27 to 2015-11-26 
+INFO - Total 1 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2015-11-27 to 2015-12-27 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2015-12-28 to 2016-01-27 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2016-01-28 to 2016-02-27 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2016-02-28 to 2016-03-29 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2016-03-30 to 2016-04-29 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2016-04-30 to 2016-05-30 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2016-05-31 to 2016-06-30 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2016-07-01 to 2016-07-31 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 985 for Maintenance (Beleuchtung brennt nicht/
+la lumière ne fonctionne pas)
+INFO - Migrated ID 986 for Maintenance (Wasserhahn tropft/robinet qui fuit)
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2016-08-01 to 2016-08-31 
+INFO - Total 2 records has been imported with 0 error
+INFO - Migrated ID 998 for Maintenance (INCIDENCIA)
+INFO - Migrated ID 917 for Maintenance (Áreas Barajas)
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2016-09-01 to 2016-10-01 
+INFO - Total 2 records has been imported with 0 error
+INFO - Migrated ID 999 for Maintenance ()
+INFO - Migrated ID 1000 for Maintenance ()
+INFO - Migrated ID 1001 for Maintenance ()
+INFO - Migrated ID 1002 for Maintenance ()
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2016-10-02 to 2016-11-01 
+INFO - Total 4 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2016-11-02 to 2016-12-02 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 762 for Maintenance ()
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2016-12-03 to 2017-01-02 
+INFO - Total 1 records has been imported with 0 error
+INFO - Migrated ID 1009 for Maintenance (WC is clogged)
+INFO - Migrated ID 1010 for Maintenance (Drain is blocked)
+INFO - Migrated ID 1011 for Maintenance (WC is leaking)
+INFO - Migrated ID 1012 for Maintenance (Need to be fixed)
+INFO - Migrated ID 1013 for Maintenance (Flipchart or markerboard need to be repaired)
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2017-01-03 to 2017-02-02 
+INFO - Total 5 records has been imported with 0 error
+INFO - Migrated ID 832 for Maintenance ()
+INFO - Migrated ID 1017 for Maintenance (BANCA MARCH)
+INFO - Migrated ID 1018 for Maintenance (BANCA MARCH)
+INFO - Migrated ID 1019 for Maintenance (BANCA MARCH)
+INFO - Migrated ID 1020 for Maintenance (BANCA MARCH)
+INFO - Migrated ID 1021 for Maintenance (BANCA MARCH)
+INFO - Migrated ID 1022 for Maintenance (BANCA MARCH)
+INFO - Migrated ID 1023 for Maintenance (BANCA MARCH)
+INFO - Migrated ID 1024 for Maintenance (BANCA MARCH)
+INFO - Migrated ID 1025 for Maintenance (BANCA MARCH)
+INFO - Migrated ID 1026 for Maintenance (BANCA MARCH)
+INFO - Migrated ID 1027 for Maintenance (BANCA MARCH)
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2017-02-03 to 2017-03-05 
+INFO - Total 12 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2017-03-06 to 2017-04-05 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 1028 for Maintenance (BANCA MARCH)
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2017-04-06 to 2017-05-06 
+INFO - Total 1 records has been imported with 0 error
+INFO - Migrated ID 1040 for Maintenance (Areas Palma de Mallorca)
+INFO - Migrated ID 1043 for Maintenance (Areas Palma de Mallorca)
+INFO - Migrated ID 1046 for Maintenance (No se puede acceder a la zona de trabajo)
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2017-05-07 to 2017-06-06 
+INFO - Total 3 records has been imported with 0 error
+INFO - Migrated ID 1045 for Maintenance (Areas Palma de Mallorca)
+INFO - Migrated ID 1044 for Maintenance (Areas Palma de Mallorca)
+INFO - Migrated ID 1041 for Maintenance (Areas Palma de Mallorca)
+INFO - Migrated ID 1042 for Maintenance (Areas Palma de Mallorca)
+INFO - Migrated ID 1037 for Maintenance (Areas Palma de Mallorca)
+INFO - Migrated ID 1038 for Maintenance (Areas Palma de Mallorca)
+INFO - Migrated ID 1039 for Maintenance (Areas Palma de Mallorca)
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2017-06-07 to 2017-07-07 
+INFO - Total 7 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2017-07-08 to 2017-08-07 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2017-08-08 to 2017-09-07 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 1047 for Maintenance (PRUEBA2 VALENTIN)
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2017-09-08 to 2017-10-08 
+INFO - Total 1 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2017-10-09 to 2017-11-08 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 1050 for Maintenance (Toilet or Urinal blocked)
+INFO - Migrated ID 1052 for Maintenance (Toilet seat broken or damaged)
+INFO - Migrated ID 1054 for Maintenance (Sink Broken)
+INFO - Migrated ID 1056 for Maintenance (Lights not working)
+INFO - Migrated ID 1057 for Maintenance (Lock on door not secure)
+INFO - Migrated ID 1058 for Maintenance (Toilet water not refilling)
+INFO - Migrated ID 1059 for Maintenance (Water not flowing correctly)
+INFO - Migrated ID 1060 for Maintenance (GROUNDFORCE)
+INFO - Migrated ID 1061 for Maintenance (GROUNDFORCE)
+INFO - Migrated ID 1062 for Maintenance (GROUNDFORCE)
+INFO - Migrated ID 1063 for Maintenance (GROUNDFORCE)
+INFO - Migrated ID 1064 for Maintenance (GROUNDFORCE)
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2017-11-09 to 2017-12-09 
+INFO - Total 12 records has been imported with 0 error
+INFO - Migrated ID 1029 for Maintenance (Demande de maintenance)
+INFO - Migrated ID 1065 for Maintenance (GROUNDFORCE)
+INFO - Migrated ID 1067 for Maintenance (Toilet Blocked)
+INFO - Migrated ID 1068 for Maintenance (Faulty Light)
+INFO - Migrated ID 1069 for Maintenance (Air Conditioning Issues)
+INFO - Migrated ID 1070 for Maintenance (Heating Problems - Too cold)
+INFO - Migrated ID 1071 for Maintenance (Power Failure)
+INFO - Migrated ID 1072 for Maintenance (Graffiti)
+INFO - Migrated ID 1073 for Maintenance (Unable to open or close window)
+INFO - Migrated ID 1076 for Maintenance (Blinds broken or damaged)
+INFO - Migrated ID 1077 for Maintenance (Broken Chairs)
+INFO - Migrated ID 1078 for Maintenance (Broken Table)
+INFO - Migrated ID 1079 for Maintenance (Dripping Tap)
+INFO - Migrated ID 1080 for Maintenance (Leaks from Celing)
+INFO - Migrated ID 1081 for Maintenance (Leaks from toilets)
+INFO - Migrated ID 1083 for Maintenance (defekt)
+INFO - Migrated ID 1084 for Maintenance (defekt)
+INFO - Migrated ID 1085 for Maintenance (defekt)
+INFO - Migrated ID 1086 for Maintenance (defekt)
+INFO - Migrated ID 1087 for Maintenance (beschädigt)
+INFO - Migrated ID 1088 for Maintenance (defekt)
+INFO - Migrated ID 1089 for Maintenance (trolpft / undicht)
+INFO - Migrated ID 1090 for Maintenance (tropft / undicht)
+INFO - Migrated ID 1091 for Maintenance (verstopft)
+INFO - Migrated ID 1092 for Maintenance (Beleuchtung defekt)
+INFO - Migrated ID 1093 for Maintenance (defekt)
+INFO - Migrated ID 1094 for Maintenance (lose)
+INFO - Migrated ID 1095 for Maintenance (defekt)
+INFO - Migrated ID 1096 for Maintenance (Radiator tropft / undicht)
+INFO - Migrated ID 1097 for Maintenance (Verkratzt / verschmutzt)
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2017-12-10 to 2018-01-09 
+INFO - Total 30 records has been imported with 0 error
+INFO - Migrated ID 1102 for Maintenance ()
+INFO - Migrated ID 1103 for Maintenance ()
+INFO - Migrated ID 1104 for Maintenance (defekt)
+INFO - Migrated ID 1105 for Maintenance (defekt)
+INFO - Migrated ID 1106 for Maintenance (defekt)
+INFO - Migrated ID 1107 for Maintenance (lose/fehlt)
+INFO - Migrated ID 1108 for Maintenance (defekt)
+INFO - Migrated ID 1109 for Maintenance (defekt)
+INFO - Migrated ID 1110 for Maintenance (defekt)
+INFO - Migrated ID 1111 for Maintenance (defekt)
+INFO - Migrated ID 1112 for Maintenance (defekt)
+INFO - Migrated ID 1113 for Maintenance (defekt)
+INFO - Migrated ID 1099 for Maintenance (defekt)
+INFO - Migrated ID 1100 for Maintenance (defekt)
+INFO - Migrated ID 1101 for Maintenance (defekt)
+INFO - Migrated ID 1117 for Maintenance (defekt)
+INFO - Migrated ID 1119 for Maintenance ()
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2018-01-10 to 2018-02-09 
+INFO - Total 17 records has been imported with 0 error
+INFO - Migrated ID 1114 for Maintenance (defekt)
+INFO - Migrated ID 1098 for Maintenance (Wartung technische Kontrolle
+)
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2018-02-10 to 2018-03-12 
+INFO - Total 2 records has been imported with 0 error
+INFO - Migrated ID 1066 for Maintenance (GF)
+INFO - Migrated ID 1120 for Maintenance (GF)
+INFO - Migrated ID 1121 for Maintenance (GF)
+INFO - Migrated ID 1122 for Maintenance (GF)
+INFO - Migrated ID 1123 for Maintenance (GF)
+INFO - Migrated ID 1124 for Maintenance (GF)
+INFO - Migrated ID 1055 for Maintenance (Tap Broken or seized)
+INFO - Migrated ID 1075 for Maintenance (Toilet Seat Loose)
+INFO - Migrated ID 1082 for Maintenance (Door locks broken)
+INFO - Migrated ID 1051 for Maintenance (Toilet lid damaged)
+INFO - Migrated ID 1074 for Maintenance (Door handle Loose)
+INFO - Migrated ID 975 for Maintenance (Hot or Cold tap is leaking or constantly running)
+INFO - Migrated ID 1053 for Maintenance (Sink Blocked)
+INFO - Migrated ID 1125 for Maintenance ()
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2018-03-13 to 2018-04-12 
+INFO - Total 14 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2018-04-13 to 2018-05-13 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated ID 1126 for Maintenance ()
+INFO - Migrated ID 1127 for Maintenance ()
+INFO - Migrated ID 1128 for Maintenance ()
+INFO - Migrated ID 1129 for Maintenance ()
+INFO - Migrated ID 1130 for Maintenance ()
+INFO - Migrated ID 1131 for Maintenance ()
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2018-05-14 to 2018-06-13 
+INFO - Total 6 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2018-06-14 to 2018-07-14 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2018-07-15 to 2018-08-14 
+INFO - Total 0 records has been imported with 0 error
+INFO - Migrated Person from Mo4Jo to SmartView Employee from 2018-08-15 to 2018-09-11 
+INFO - Total 0 records has been imported with 0 error
